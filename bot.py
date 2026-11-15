@@ -58,7 +58,12 @@ FEEDS = [
     ("CNBC", CNBC.format("19854910")),  # Tech
     ("New York Post", "https://nypost.com/business/feed/"),
     ("New York Post", "https://nypost.com/tech/feed/"),
+    # Substack: yazinin metni akistan alinir (ucretli yazilarda sadece ilk kisim)
+    ("Global Macro Method", "https://globalmacromethod.substack.com/feed"),
+    ("Bison Insights", "https://bisoninvest.substack.com/feed"),
+    ("Campbell Ramble", "https://campbellramble.substack.com/feed"),
 ]
+SUBSTACKS = {"Global Macro Method", "Bison Insights", "Campbell Ramble"}
 SOURCE_ORDER = list(dict.fromkeys(name for name, _ in FEEDS))
 
 
@@ -83,6 +88,21 @@ def save(name: str, data) -> None:
 def clean_text(s: str) -> str:
     s = re.sub(r"<[^>]+>", " ", s or "")
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
+
+
+def html_to_text(s: str) -> str:
+    """Yazi HTML'ini paragraflari koruyarak duz metne cevirir."""
+    s = re.sub(r"(?is)<(script|style|figure|figcaption)[^>]*>.*?</\1>", " ", s or "")
+    s = re.sub(r"(?i)<br\s*/?>", "\n", s)
+    s = re.sub(r"(?i)</(p|h[1-6]|li|blockquote|div)>", "\n", s)
+    s = re.sub(r"(?i)<li[^>]*>", "• ", s)
+    s = html.unescape(re.sub(r"<[^>]+>", " ", s))
+    lines = [re.sub(r"[ \t ]+", " ", ln).strip() for ln in s.split("\n")]
+    boilerplate = {"subscribe now", "share", "leave a comment", "upgrade to paid", "subscribe"}
+    return "\n".join(
+        ln for ln in lines
+        if ln and ln.lower() not in boilerplate and "reader-supported publication" not in ln.lower()
+    )
 
 
 def chunks(text: str, limit: int = TG_LIMIT) -> list[str]:
@@ -140,7 +160,10 @@ def fetch_feed(source: str, url: str) -> list[dict]:
                 continue
         pub = e.get("published_parsed") or e.get("updated_parsed")
         pub_iso = datetime(*pub[:6], tzinfo=timezone.utc).isoformat() if pub else None
-        items.append({"source": source, "title": title, "url": link, "desc": desc, "published": pub_iso})
+        item = {"source": source, "title": title, "url": link, "desc": desc, "published": pub_iso}
+        if source in SUBSTACKS and e.get("content"):
+            item["content"] = html_to_text(e["content"][0].get("value", ""))
+        items.append(item)
     return items
 
 

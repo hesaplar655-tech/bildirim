@@ -140,6 +140,17 @@ async function articleMessage(num, it) {
   const when = it.published ? ` · ${formatTR(it.published)}` : "";
   const head = [`[${num}] ${it.source}${when}`, it.title, ""];
 
+  // Substack: metin listeyle birlikte kaydedildi
+  if (it.content) {
+    return [
+      ...head,
+      "📝 Özet", it.desc || "(özet yok)", "",
+      "📄 Yazı", it.content, "",
+      "(Ücretli yazılarda burada sadece ilk kısım var, tamamı linkte.)",
+      `🔗 ${it.url}`,
+    ].join("\n");
+  }
+
   if (ARTICLE_SELECTORS[it.source]) {
     const body = await fetchArticle(it.url, it.source);
     const summary = it.desc || (body ? body.split("\n")[0] : "");
