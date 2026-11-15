@@ -5,3 +5,9 @@ compatibility_date = "2025-06-01"
 [vars]
 CHAT_ID = "6847519503"
 DIGEST_URL = "https://raw.githubusercontent.com/hesaplar655-tech/bildirim/state/digest.json"
+GITHUB_REPO = "hesaplar655-tech/bildirim"
+GITHUB_WORKFLOW = "bot.yml"
+
+# GitHub'in kendi zamanlamasi guvenilmez oldugu icin botu buradan 5 dakikada bir tetikle
+[triggers]
+crons = ["*/5 * * * *"]

@@ -24,6 +24,28 @@ const HELP =
   "Numaralar en son gönderilen listeye aittir.";
 
 export default {
+  // 5 dakikada bir: GitHub'daki haber toplama / 09:00 listesi is akisini baslat
+  async scheduled(event, env, ctx) {
+    if (!env.GITHUB_TOKEN) {
+      console.log("GITHUB_TOKEN yok, tetikleme atlandi");
+      return;
+    }
+    const res = await fetch(
+      `https://api.github.com/repos/${env.GITHUB_REPO}/actions/workflows/${env.GITHUB_WORKFLOW}/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${env.GITHUB_TOKEN}`,
+          Accept: "application/vnd.github+json",
+          "X-GitHub-Api-Version": "2022-11-28",
+          "User-Agent": "haber-botu",
+        },
+        body: JSON.stringify({ ref: "main" }),
+      }
+    );
+    if (res.status !== 204) console.error("GitHub tetiklenemedi:", res.status, await res.text());
+  },
+
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
