@@ -1,0 +1,58 @@
+name: Haber botu
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # ~5 dakikada bir: haberleri topla, numaralara cevap ver, 09:00'da liste gonder
+  workflow_dispatch:
+
+concurrency:
+  group: haber-botu
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  calis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Durumu yukle (state dali)
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: state
+          path: state
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -q -r requirements.txt
+
+      - name: Botu calistir
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          mkdir -p state && cd state
+          rm -rf .git
+          git init -q -b state
+          git add -A
+          git -c user.name="haber-botu" -c user.email="haber-botu@users.noreply.github.com" commit -qm "durum" || exit 0
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" state
+
+      - name: Zamanlamayi canli tut (60 gun kurali)
+        run: |
+          age=$(( $(date +%s) - $(git log -1 --format=%ct) ))
+          if [ "$age" -gt 4320000 ]; then
+            git -c user.name="haber-botu" -c user.email="haber-botu@users.noreply.github.com" commit --allow-empty -qm "canli tut"
+            git push -q
+          fi
