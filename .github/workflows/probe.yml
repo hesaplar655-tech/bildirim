@@ -4,11 +4,12 @@ jobs:
   p:
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - shell: bash {0}
+        run: |
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
           for FT in $(curl -s -A "$UA" "https://www.ft.com/news-feed?format=rss" | grep -o "<link>[^<]*" | sed -n 2,4p | cut -c7- | sed 's/?.*//'); do
             for host in archive.is archive.ph; do
-              c=$(curl -s -L -A "$UA" -o a.html -w "%{http_code}" --max-time 40 "https://$host/newest/$FT"); echo "$host $c size=$(wc -c < a.html) captcha=$(grep -ioc captcha a.html) $FT"
+              c=$(curl -s -L -A "$UA" -o a.html -w "%{http_code} %{time_total}s" --max-time 60 "https://$host/newest/$FT"); echo "$host $c size=$(wc -c < a.html) captcha=$(grep -ioc captcha a.html) $FT"
             done
           done
           echo "reuters sitemap: $(curl -s -A "$UA" -o /dev/null -w "%{http_code}" https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml)"
