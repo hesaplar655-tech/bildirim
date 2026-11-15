@@ -1,9 +1,12 @@
-"""Haber botu.
+"""Haber botu - toplama ve gunluk liste.
 
 Her calistiginda (GitHub Actions, ~5 dakikada bir):
   1. Haber akislarini (RSS) toplar, yeni basliklari state/pending.json'a ekler.
-  2. Saat 09:00 (TR) gectiyse ve bugun gonderilmediyse numarali baslik listesini Telegram'a yollar.
-  3. Telegram'a yazilan numaralari okur, o haberin ozetini + metnini (ya da archive.is linkini) gonderir.
+  2. Saat 09:00 (TR) gectiyse ve bugun gonderilmediyse numarali baslik listesini Telegram'a yollar
+     ve state/digest.json'a yazar.
+
+Telegram'a yazilan numaralara Cloudflare Worker (worker/ klasoru) aninda cevap verir;
+numaralari bu dosyanin yazdigi digest.json'dan okur.
 
 Ortam degiskenleri: TELEGRAM_TOKEN, TELEGRAM_CHAT_ID
 """
@@ -21,7 +24,6 @@ from pathlib import Path
 
 import feedparser
 import requests
-import trafilatura
 
 TR = timezone(timedelta(hours=3))
 DIGEST_HOUR = 9
@@ -31,7 +33,6 @@ UA = (
     "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 )
 TG_LIMIT = 4000
-MAX_NUMBERS_PER_MESSAGE = 10
 
 GN = "https://news.google.com/rss/search?q=site:reuters.com/{}+when:1d&hl=en-US&gl=US&ceid=US:en"
 CNBC = "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id={}"
@@ -59,8 +60,6 @@ FEEDS = [
     ("New York Post", "https://nypost.com/tech/feed/"),
 ]
 SOURCE_ORDER = list(dict.fromkeys(name for name, _ in FEEDS))
-# Uyelik istemeyen siteler: tam metin dogrudan cekilir. Digerleri archive.is linkiyle verilir.
-FREE_SOURCES = {"CNBC", "New York Post"}
 
 
 # ---------------------------------------------------------------- yardimcilar
@@ -84,10 +83,6 @@ def save(name: str, data) -> None:
 def clean_text(s: str) -> str:
     s = re.sub(r"<[^>]+>", " ", s or "")
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
-
-
-def archive_link(url: str) -> str:
-    return "archive.is/" + url.split("?", 1)[0]
 
 
 def chunks(text: str, limit: int = TG_LIMIT) -> list[str]:
@@ -124,15 +119,6 @@ class Telegram:
             r.raise_for_status()
             time.sleep(0.4)
 
-    def updates(self, offset: int) -> list[dict]:
-        r = requests.get(
-            f"{self.base}/getUpdates",
-            params={"offset": offset, "timeout": 0, "allowed_updates": json.dumps(["message"])},
-            timeout=30,
-        )
-        r.raise_for_status()
-        return r.json().get("result", [])
-
 
 # ---------------------------------------------------------------- akis toplama
 
@@ -158,6 +144,19 @@ def fetch_feed(source: str, url: str) -> list[dict]:
     return items
 
 
+def decode_google_link(url: str) -> str:
+    """Google Haberler yonlendirme linkini gercek Reuters adresine cevirir (archive linki icin)."""
+    try:
+        from googlenewsdecoder import gnewsdecoder
+
+        res = gnewsdecoder(url, interval=1)
+        if res.get("decoded_url"):
+            return res["decoded_url"]
+    except Exception as exc:
+        print(f"[uyari] Google link cozulemedi: {exc}", file=sys.stderr)
+    return url
+
+
 def collect(state: dict, pending: list[dict]) -> list[dict]:
     seen: dict = state.setdefault("seen", {})
     last_digest = datetime.fromisoformat(state["last_digest_at"])
@@ -178,6 +177,8 @@ def collect(state: dict, pending: list[dict]) -> list[dict]:
                 continue
             seen[key] = now_utc().isoformat()
             known_titles.add((it["source"], it["title"].lower()))
+            if "news.google.com" in it["url"]:
+                it["url"] = decode_google_link(it["url"])
             pending.append(it)
             added += 1
     # 5 gunden eski 'seen' kayitlarini sil
@@ -227,90 +228,6 @@ def send_digest(tg: Telegram, state: dict, pending: list[dict]) -> None:
     print(f"Liste gonderildi: {n} haber")
 
 
-# ---------------------------------------------------------------- numara cevaplari
-
-def resolve_url(it: dict) -> str:
-    url = it["url"]
-    if "news.google.com" in url:
-        try:
-            from googlenewsdecoder import gnewsdecoder
-
-            res = gnewsdecoder(url, interval=1)
-            if res.get("decoded_url"):
-                return res["decoded_url"]
-        except Exception as exc:
-            print(f"[uyari] Google link cozulemedi: {exc}", file=sys.stderr)
-    return url
-
-
-def fetch_article(url: str) -> str | None:
-    try:
-        resp = requests.get(url, headers={"User-Agent": UA}, timeout=30)
-        resp.raise_for_status()
-        return trafilatura.extract(resp.text, include_comments=False, include_tables=False, favor_precision=True)
-    except Exception as exc:
-        print(f"[uyari] Haber cekilemedi {url}: {exc}", file=sys.stderr)
-        return None
-
-
-def article_message(num: str, it: dict) -> str:
-    url = resolve_url(it)
-    when = ""
-    if it.get("published"):
-        when = " · " + datetime.fromisoformat(it["published"]).astimezone(TR).strftime("%d.%m %H:%M")
-    head = [f"[{num}] {it['source']}{when}", it["title"], ""]
-
-    if it["source"] in FREE_SOURCES:
-        body = fetch_article(url)
-        summary = it.get("desc") or (body.split("\n", 1)[0] if body else "")
-        parts = head + ["📝 Özet", summary or "(özet yok)", ""]
-        if body:
-            parts += ["📄 Haber", body, "", f"🔗 {url}"]
-        else:
-            parts += ["Haber metni alınamadı, linkten okuyabilirsin:", f"🔗 {url}"]
-        return "\n".join(parts)
-
-    parts = head + ["📝 Özet", it.get("desc") or "(bu kaynak akışında özet yok)", ""]
-    parts += [f"🔒 Tam haber (archive): {archive_link(url)}", f"🔗 Orijinal: {url}"]
-    return "\n".join(parts)
-
-
-HELP = (
-    "Her sabah 09:00'da numaralı haber listesi gelir.\n"
-    "Bir haberi okumak için numarasını yaz: 5\n"
-    "Birden fazla için: 3 12 40\n"
-    "Numaralar en son gönderilen listeye aittir."
-)
-
-
-def handle_updates(tg: Telegram, state: dict) -> None:
-    offset = state.get("offset", 0)
-    updates = tg.updates(offset)
-    if not updates:
-        return
-    digest = load("digest.json", {"items": {}})["items"]
-    for up in updates:
-        state["offset"] = up["update_id"] + 1
-        msg = up.get("message") or {}
-        if str(msg.get("chat", {}).get("id")) != tg.chat_id:
-            continue  # baskasi yazmis, cevap verme
-        text = msg.get("text", "")
-        nums = re.findall(r"\d+", text)
-        if not nums:
-            tg.send(HELP)
-            continue
-        if not digest:
-            tg.send("Henüz gönderilmiş bir liste yok.")
-            continue
-        for num in list(dict.fromkeys(nums))[:MAX_NUMBERS_PER_MESSAGE]:
-            it = digest.get(str(int(num)))
-            if not it:
-                tg.send(f"{num} numaralı haber son listede yok (1-{len(digest)} arası yazabilirsin).")
-                continue
-            tg.send(article_message(str(int(num)), it))
-        save("state.json", state)  # cevaplar gittikten sonra offset'i kaydet
-
-
 # ---------------------------------------------------------------- ana akis
 
 def main() -> int:
@@ -319,16 +236,10 @@ def main() -> int:
     state.setdefault("last_digest_at", (now_utc() - timedelta(hours=24)).isoformat())
     pending = load("pending.json", [])
 
-    # 1) Numara cevaplari (en hizli cevap icin once)
-    try:
-        handle_updates(tg, state)
-    except Exception as exc:
-        print(f"[hata] Telegram mesajlari islenemedi: {exc}", file=sys.stderr)
-
-    # 2) Akislari topla
+    # 1) Akislari topla
     pending = collect(state, pending)
 
-    # 3) Gunluk liste zamani geldiyse gonder
+    # 2) Gunluk liste zamani geldiyse gonder
     now_tr = now_utc().astimezone(TR)
     if now_tr.hour >= DIGEST_HOUR and state.get("last_digest_date") != now_tr.date().isoformat():
         send_digest(tg, state, pending)

@@ -1,0 +1,7 @@
+name = "haber-botu"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+
+[vars]
+CHAT_ID = "6847519503"
+DIGEST_URL = "https://raw.githubusercontent.com/hesaplar655-tech/bildirim/state/digest.json"
