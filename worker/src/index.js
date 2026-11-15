@@ -52,24 +52,6 @@ export default {
       });
     }
 
-    // Substack yazilari: Gmail betigi yazar (/ingest), GitHub'daki bot.py okur (/substack)
-    if (url.pathname === "/ingest" || url.pathname === "/substack") {
-      if (!env.INGEST_KEY || request.headers.get("X-Key") !== env.INGEST_KEY) {
-        return new Response("forbidden", { status: 403 });
-      }
-      const stored = (await env.SUBSTACK.get("items", "json")) || [];
-      if (url.pathname === "/substack") return Response.json(stored);
-      if (request.method !== "POST") return new Response("method", { status: 405 });
-
-      const incoming = (await request.json()).items || [];
-      const byUrl = new Map(stored.map((it) => [it.url, it]));
-      for (const it of incoming) if (it && it.url && it.title) byUrl.set(it.url, it);
-      const weekAgo = Date.now() - 7 * 24 * 3600 * 1000;
-      const kept = [...byUrl.values()].filter((it) => !it.published || Date.parse(it.published) > weekAgo);
-      await env.SUBSTACK.put("items", JSON.stringify(kept));
-      return Response.json({ ok: true, stored: kept.length, received: incoming.length });
-    }
-
     // Yerel test: haber metni cikarma (sadece DEBUG ayari varken)
     if (env.DEBUG && url.pathname === "/debug") {
       const text = await fetchArticle(url.searchParams.get("url"), url.searchParams.get("source"));
@@ -157,18 +139,6 @@ const archiveLink = (url) => "archive.is/" + url.split("?")[0];
 async function articleMessage(num, it) {
   const when = it.published ? ` · ${formatTR(it.published)}` : "";
   const head = [`[${num}] ${it.source}${when}`, it.title, ""];
-
-  // Substack: metin listeyle birlikte kaydedildi (Gmail'e gelen e-postadan)
-  if (it.content) {
-    const summary = it.desc || it.content.split("\n").find((l) => l.trim().length > 40) || "";
-    return [
-      ...head,
-      "📝 Özet", summary || "(özet yok)", "",
-      "📄 Yazı", it.content, "",
-      "(Yazının tamamı gelmediyse linkten okuyabilirsin.)",
-      `🔗 ${it.url}`,
-    ].join("\n");
-  }
 
   if (ARTICLE_SELECTORS[it.source]) {
     const body = await fetchArticle(it.url, it.source);

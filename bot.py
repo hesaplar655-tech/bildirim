@@ -59,11 +59,7 @@ FEEDS = [
     ("New York Post", "https://nypost.com/business/feed/"),
     ("New York Post", "https://nypost.com/tech/feed/"),
 ]
-# Substack yazilari: Gmail'deki betik e-postalari Cloudflare Worker'a yollar, buradan okunur.
-# (Substack, GitHub sunucularindan RSS istegini engelliyor.)
-WORKER_URL = "https://haber-botu.haber-botu.workers.dev"
-SUBSTACK_GROUP = "Substack"
-SOURCE_ORDER = list(dict.fromkeys(name for name, _ in FEEDS)) + [SUBSTACK_GROUP]
+SOURCE_ORDER = list(dict.fromkeys(name for name, _ in FEEDS))
 
 
 # ---------------------------------------------------------------- yardimcilar
@@ -161,30 +157,15 @@ def decode_google_link(url: str) -> str:
     return url
 
 
-def fetch_substack() -> list[dict]:
-    key = os.environ.get("INGEST_KEY")
-    if not key:
-        return []
-    resp = requests.get(f"{WORKER_URL}/substack", headers={"X-Key": key}, timeout=30)
-    resp.raise_for_status()
-    return [dict(it, group=SUBSTACK_GROUP) for it in resp.json()]
-
-
-def all_sources():
-    for source, url in FEEDS:
-        yield source, lambda s=source, u=url: fetch_feed(s, u)
-    yield SUBSTACK_GROUP, fetch_substack
-
-
 def collect(state: dict, pending: list[dict]) -> list[dict]:
     seen: dict = state.setdefault("seen", {})
     last_digest = datetime.fromisoformat(state["last_digest_at"])
     cutoff = last_digest - timedelta(hours=6)  # gec dusen haberler icin pay
     known_titles = {(p["source"], p["title"].lower()) for p in pending}
     added = 0
-    for source, fetch in all_sources():
+    for source, url in FEEDS:
         try:
-            items = fetch()
+            items = fetch_feed(source, url)
         except Exception as exc:  # bir akis bozuksa digerleri devam etsin
             print(f"[uyari] {source} akisi alinamadi: {exc}", file=sys.stderr)
             continue
@@ -215,12 +196,12 @@ def send_digest(tg: Telegram, state: dict, pending: list[dict]) -> None:
     end = now_utc().astimezone(TR)
     by_source: dict[str, list[dict]] = {s: [] for s in SOURCE_ORDER}
     for it in pending:
-        by_source.setdefault(it.get("group", it["source"]), []).append(it)
+        by_source.setdefault(it["source"], []).append(it)
 
     numbered: dict[str, dict] = {}
     lines = [
         f"📰 Haber listesi · {end:%d.%m.%Y %H:%M}",
-        f"{start:%d.%m %H:%M} → {end:%d.%m %H:%M} arası · {len(pending)} haber/yazı",
+        f"{start:%d.%m %H:%M} → {end:%d.%m %H:%M} arası · {len(pending)} haber",
         "",
     ]
     n = 0
@@ -232,8 +213,7 @@ def send_digest(tg: Telegram, state: dict, pending: list[dict]) -> None:
         for it in group:
             n += 1
             numbered[str(n)] = it
-            prefix = f"{it['source']}: " if it.get("group") else ""
-            lines.append(f"{n}. {prefix}{it['title']}")
+            lines.append(f"{n}. {it['title']}")
         lines.append("")
     if n == 0:
         lines.append("Bu aralıkta yeni haber yok.")
