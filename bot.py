@@ -87,7 +87,7 @@ def clean_text(s: str) -> str:
 
 
 def archive_link(url: str) -> str:
-    return "https://archive.is/" + url.split("?", 1)[0]
+    return "archive.is/" + url.split("?", 1)[0]
 
 
 def chunks(text: str, limit: int = TG_LIMIT) -> list[str]:
