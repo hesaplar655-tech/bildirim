@@ -5,3 +5,8 @@ compatibility_date = "2025-06-01"
 [vars]
 CHAT_ID = "6847519503"
 DIGEST_URL = "https://raw.githubusercontent.com/hesaplar655-tech/bildirim/state/digest.json"
+
+# Gmail'deki betigin gonderdigi Substack yazilari (son 7 gun)
+[[kv_namespaces]]
+binding = "SUBSTACK"
+id = "4f1188265fb643e3b410eee3f22cff07"

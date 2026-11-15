@@ -58,13 +58,12 @@ FEEDS = [
     ("CNBC", CNBC.format("19854910")),  # Tech
     ("New York Post", "https://nypost.com/business/feed/"),
     ("New York Post", "https://nypost.com/tech/feed/"),
-    # Substack: yazinin metni akistan alinir (ucretli yazilarda sadece ilk kisim)
-    ("Global Macro Method", "https://globalmacromethod.substack.com/feed"),
-    ("Bison Insights", "https://bisoninvest.substack.com/feed"),
-    ("Campbell Ramble", "https://campbellramble.substack.com/feed"),
 ]
-SUBSTACKS = {"Global Macro Method", "Bison Insights", "Campbell Ramble"}
-SOURCE_ORDER = list(dict.fromkeys(name for name, _ in FEEDS))
+# Substack yazilari: Gmail'deki betik e-postalari Cloudflare Worker'a yollar, buradan okunur.
+# (Substack, GitHub sunucularindan RSS istegini engelliyor.)
+WORKER_URL = "https://haber-botu.haber-botu.workers.dev"
+SUBSTACK_GROUP = "Substack"
+SOURCE_ORDER = list(dict.fromkeys(name for name, _ in FEEDS)) + [SUBSTACK_GROUP]
 
 
 # ---------------------------------------------------------------- yardimcilar
@@ -88,21 +87,6 @@ def save(name: str, data) -> None:
 def clean_text(s: str) -> str:
     s = re.sub(r"<[^>]+>", " ", s or "")
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
-
-
-def html_to_text(s: str) -> str:
-    """Yazi HTML'ini paragraflari koruyarak duz metne cevirir."""
-    s = re.sub(r"(?is)<(script|style|figure|figcaption)[^>]*>.*?</\1>", " ", s or "")
-    s = re.sub(r"(?i)<br\s*/?>", "\n", s)
-    s = re.sub(r"(?i)</(p|h[1-6]|li|blockquote|div)>", "\n", s)
-    s = re.sub(r"(?i)<li[^>]*>", "• ", s)
-    s = html.unescape(re.sub(r"<[^>]+>", " ", s))
-    lines = [re.sub(r"[ \t ]+", " ", ln).strip() for ln in s.split("\n")]
-    boilerplate = {"subscribe now", "share", "leave a comment", "upgrade to paid", "subscribe"}
-    return "\n".join(
-        ln for ln in lines
-        if ln and ln.lower() not in boilerplate and "reader-supported publication" not in ln.lower()
-    )
 
 
 def chunks(text: str, limit: int = TG_LIMIT) -> list[str]:
@@ -160,10 +144,7 @@ def fetch_feed(source: str, url: str) -> list[dict]:
                 continue
         pub = e.get("published_parsed") or e.get("updated_parsed")
         pub_iso = datetime(*pub[:6], tzinfo=timezone.utc).isoformat() if pub else None
-        item = {"source": source, "title": title, "url": link, "desc": desc, "published": pub_iso}
-        if source in SUBSTACKS and e.get("content"):
-            item["content"] = html_to_text(e["content"][0].get("value", ""))
-        items.append(item)
+        items.append({"source": source, "title": title, "url": link, "desc": desc, "published": pub_iso})
     return items
 
 
@@ -180,15 +161,30 @@ def decode_google_link(url: str) -> str:
     return url
 
 
+def fetch_substack() -> list[dict]:
+    key = os.environ.get("INGEST_KEY")
+    if not key:
+        return []
+    resp = requests.get(f"{WORKER_URL}/substack", headers={"X-Key": key}, timeout=30)
+    resp.raise_for_status()
+    return [dict(it, group=SUBSTACK_GROUP) for it in resp.json()]
+
+
+def all_sources():
+    for source, url in FEEDS:
+        yield source, lambda s=source, u=url: fetch_feed(s, u)
+    yield SUBSTACK_GROUP, fetch_substack
+
+
 def collect(state: dict, pending: list[dict]) -> list[dict]:
     seen: dict = state.setdefault("seen", {})
     last_digest = datetime.fromisoformat(state["last_digest_at"])
     cutoff = last_digest - timedelta(hours=6)  # gec dusen haberler icin pay
     known_titles = {(p["source"], p["title"].lower()) for p in pending}
     added = 0
-    for source, url in FEEDS:
+    for source, fetch in all_sources():
         try:
-            items = fetch_feed(source, url)
+            items = fetch()
         except Exception as exc:  # bir akis bozuksa digerleri devam etsin
             print(f"[uyari] {source} akisi alinamadi: {exc}", file=sys.stderr)
             continue
@@ -219,12 +215,12 @@ def send_digest(tg: Telegram, state: dict, pending: list[dict]) -> None:
     end = now_utc().astimezone(TR)
     by_source: dict[str, list[dict]] = {s: [] for s in SOURCE_ORDER}
     for it in pending:
-        by_source.setdefault(it["source"], []).append(it)
+        by_source.setdefault(it.get("group", it["source"]), []).append(it)
 
     numbered: dict[str, dict] = {}
     lines = [
         f"📰 Haber listesi · {end:%d.%m.%Y %H:%M}",
-        f"{start:%d.%m %H:%M} → {end:%d.%m %H:%M} arası · {len(pending)} haber",
+        f"{start:%d.%m %H:%M} → {end:%d.%m %H:%M} arası · {len(pending)} haber/yazı",
         "",
     ]
     n = 0
@@ -236,7 +232,8 @@ def send_digest(tg: Telegram, state: dict, pending: list[dict]) -> None:
         for it in group:
             n += 1
             numbered[str(n)] = it
-            lines.append(f"{n}. {it['title']}")
+            prefix = f"{it['source']}: " if it.get("group") else ""
+            lines.append(f"{n}. {prefix}{it['title']}")
         lines.append("")
     if n == 0:
         lines.append("Bu aralıkta yeni haber yok.")
