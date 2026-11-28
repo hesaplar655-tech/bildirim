@@ -1,0 +1,3064 @@
+{
+ "sent_at": "2026-11-28T09:00:22.977528+03:00",
+ "items": {
+  "1": {
+   "source": "Reuters",
+   "title": "BMBL.DG",
+   "url": "https://www.reuters.com/markets/companies/BMBL.DG/profile/",
+   "desc": "",
+   "published": "2026-11-28T02:21:09+00:00"
+  },
+  "2": {
+   "source": "Reuters",
+   "title": "211A.JSF",
+   "url": "https://www.reuters.com/markets/companies/211A.JSF/key-metrics/management-effectiveness/",
+   "desc": "",
+   "published": "2026-11-28T02:20:51+00:00"
+  },
+  "3": {
+   "source": "Reuters",
+   "title": "5253JPY.JPx",
+   "url": "https://www.reuters.com/markets/companies/5253JPY.JPx/key-metrics/margins/",
+   "desc": "",
+   "published": "2026-11-28T02:20:28+00:00"
+  },
+  "4": {
+   "source": "Reuters",
+   "title": "GALX.M3",
+   "url": "https://www.reuters.com/markets/companies/GALX.M3/key-metrics/management-effectiveness/",
+   "desc": "",
+   "published": "2026-11-28T02:00:12+00:00"
+  },
+  "5": {
+   "source": "Reuters",
+   "title": "TAVHL.IS",
+   "url": "https://www.reuters.com/markets/companies/TAVHL.IS/key-metrics/",
+   "desc": "",
+   "published": "2026-11-28T01:59:37+00:00"
+  },
+  "6": {
+   "source": "Reuters",
+   "title": "China's premium puffer jacket push meets consumer resistance",
+   "url": "https://www.reuters.com/business/retail-consumer/chinas-premium-puffer-jacket-push-meets-consumer-resistance-2026-11-28/",
+   "desc": "",
+   "published": "2026-11-28T01:05:00+00:00"
+  },
+  "7": {
+   "source": "Reuters",
+   "title": "CBRO.D",
+   "url": "https://www.reuters.com/markets/companies/CBRO.D/key-metrics/growth",
+   "desc": "",
+   "published": "2026-11-28T00:24:27+00:00"
+  },
+  "8": {
+   "source": "Reuters",
+   "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+   "url": "https://www.reuters.com/business/retail-consumer/us-black-friday-online-sales-cross-13-billion-adobe-says-2026-11-28/",
+   "desc": "",
+   "published": "2026-11-28T00:06:00+00:00"
+  },
+  "9": {
+   "source": "Reuters",
+   "title": "US government bars bandwidth provider RETN from American networks",
+   "url": "https://www.reuters.com/business/media-telecom/us-government-bars-bandwidth-provider-retn-american-networks-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T23:11:16+00:00"
+  },
+  "10": {
+   "source": "Reuters",
+   "title": "Canada's Trans Mountain to gauge shipping interest by early January in oil pipeline expansion",
+   "url": "https://www.reuters.com/business/energy/canadas-trans-mountain-gauge-shipping-interest-by-early-january-oil-pipeline-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T21:45:44+00:00"
+  },
+  "11": {
+   "source": "Reuters",
+   "title": "South America eyes $18 billion gas, power integration plan, study says",
+   "url": "https://www.reuters.com/business/energy/south-america-eyes-18-billion-gas-power-integration-plan-study-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T21:37:08+00:00"
+  },
+  "12": {
+   "source": "Reuters",
+   "title": "S&P revises France outlook to 'negative' on mounting budget pressures, weak growth",
+   "url": "https://www.reuters.com/markets/currencies/sp-revises-france-outlook-negative-mounting-budget-pressures-weak-growth-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T21:27:44+00:00"
+  },
+  "13": {
+   "source": "Reuters",
+   "title": "FROG.OQ",
+   "url": "https://www.reuters.com/markets/companies/FROG.OQ/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T20:53:16+00:00"
+  },
+  "14": {
+   "source": "Reuters",
+   "title": "Canadian dollar holds on to weekly gain as investors bet on December rate hike",
+   "url": "https://www.reuters.com/markets/us/canadian-dollar-holds-weekly-gain-investors-bet-december-rate-hike-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T19:21:23+00:00"
+  },
+  "15": {
+   "source": "Reuters",
+   "title": "EXCLUSIVE: Armani heirs consider buying small slice of fashion house in stake sale, sources say",
+   "url": "https://www.reuters.com/business/retail-consumer/armani-heirs-consider-buying-small-slice-fashion-house-stake-sale-sources-say-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T19:02:20+00:00"
+  },
+  "16": {
+   "source": "Reuters",
+   "title": "ZEOX.PK",
+   "url": "https://www.reuters.com/markets/companies/ZEOX.PK/key-metrics/financial-strength/",
+   "desc": "",
+   "published": "2026-11-27T18:49:56+00:00"
+  },
+  "17": {
+   "source": "Reuters",
+   "title": "Afreximbank to sign $1.45 billion financing deal for Angola fertiliser plant",
+   "url": "https://www.reuters.com/business/energy/afreximbank-sign-145-billion-financing-deal-angola-fertiliser-plant-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T18:47:15+00:00"
+  },
+  "18": {
+   "source": "Reuters",
+   "title": "OpenAI countersues Apple for stealing trade secrets, FT reports",
+   "url": "https://www.reuters.com/technology/openai-countersues-apple-stealing-trade-secrets-ft-reports-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T18:29:43+00:00"
+  },
+  "19": {
+   "source": "Reuters",
+   "title": "TOASO.IS",
+   "url": "https://www.reuters.com/markets/companies/TOASO.IS/profile/",
+   "desc": "",
+   "published": "2026-11-27T18:27:23+00:00"
+  },
+  "20": {
+   "source": "Reuters",
+   "title": "ndafi.he",
+   "url": "https://www.reuters.com/markets/companies/ndafi.he/key-metrics/income-statement/",
+   "desc": "",
+   "published": "2026-11-27T18:26:36+00:00"
+  },
+  "21": {
+   "source": "Reuters",
+   "title": "Verizon in talks over $6 billion deal for Fidium, FT reports",
+   "url": "https://www.reuters.com/business/media-telecom/verizon-talks-over-6-billion-deal-fidium-ft-reports-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T18:25:00+00:00"
+  },
+  "22": {
+   "source": "Reuters",
+   "title": "Italian court orders Richemont to reinstate workers, in landmark ruling",
+   "url": "https://www.reuters.com/business/retail-consumer/italian-court-orders-richemont-reinstate-workers-landmark-ruling-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T18:23:45+00:00"
+  },
+  "23": {
+   "source": "Reuters",
+   "title": "CPSS.A",
+   "url": "https://www.reuters.com/markets/companies/CPSS.A/all-listings/",
+   "desc": "",
+   "published": "2026-11-27T16:56:28+00:00"
+  },
+  "24": {
+   "source": "Reuters",
+   "title": "HWC.DG",
+   "url": "https://www.reuters.com/markets/companies/HWC.DG/key-metrics/management-effectiveness/",
+   "desc": "",
+   "published": "2026-11-27T16:55:41+00:00"
+  },
+  "25": {
+   "source": "Reuters",
+   "title": "Gazprom plans to turn idle Russian gas facilities into power plants to help meet data centre demand",
+   "url": "https://www.reuters.com/business/energy/gazprom-plans-turn-idle-russian-gas-facilities-into-power-plants-help-meet-data-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T16:39:43+00:00"
+  },
+  "26": {
+   "source": "Reuters",
+   "title": "IOC.M3",
+   "url": "https://www.reuters.com/markets/companies/IOC.M3/key-metrics/management-effectiveness/",
+   "desc": "",
+   "published": "2026-11-27T16:26:29+00:00"
+  },
+  "27": {
+   "source": "Reuters",
+   "title": "Austrian court turns ex-tycoon Benko's suspended sentence into 6 months' prison",
+   "url": "https://www.reuters.com/business/finance/austrian-court-turns-ex-tycoon-benkos-suspended-sentence-into-6-months-prison-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T16:15:36+00:00"
+  },
+  "28": {
+   "source": "Reuters",
+   "title": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine",
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-launches-africas-first-trial-an-mrna-bundibugyo-ebola-vaccine-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T16:12:45+00:00"
+  },
+  "29": {
+   "source": "Reuters",
+   "title": "Germany's Schwarz Digits bets on flexible cloud to challenge Big Tech",
+   "url": "https://www.reuters.com/technology/germanys-schwarz-digits-bets-flexible-cloud-challenge-big-tech-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T15:50:15+00:00"
+  },
+  "30": {
+   "source": "Reuters",
+   "title": "BRST.PK",
+   "url": "https://www.reuters.com/markets/companies/BRST.PK/key-metrics/margins/",
+   "desc": "",
+   "published": "2026-11-27T15:48:52+00:00"
+  },
+  "31": {
+   "source": "Reuters",
+   "title": "South Africa's Purple Group investigating cybersecurity incident",
+   "url": "https://www.reuters.com/technology/south-africas-purple-group-investigating-cybersecurity-incident-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T15:31:46+00:00"
+  },
+  "32": {
+   "source": "Reuters",
+   "title": "BSY.OQ",
+   "url": "https://www.reuters.com/markets/companies/BSY.OQ/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T15:26:06+00:00"
+  },
+  "33": {
+   "source": "Reuters",
+   "title": "Explainer: A million satellites? What SpaceX's Starmind could mean for Earth and space",
+   "url": "https://www.reuters.com/business/environment/million-satellites-what-spacexs-starmind-could-mean-earth-space-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T15:08:53+00:00"
+  },
+  "34": {
+   "source": "Reuters",
+   "title": "Evidence of deepest explosive volcanic eruption found in Pacific trench",
+   "url": "https://www.reuters.com/business/environment/evidence-deepest-explosive-volcanic-eruption-found-pacific-trench-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T15:03:46+00:00"
+  },
+  "35": {
+   "source": "Reuters",
+   "title": "KMX.DG",
+   "url": "https://www.reuters.com/markets/companies/KMX.DG/key-metrics/",
+   "desc": "",
+   "published": "2026-11-27T14:36:21+00:00"
+  },
+  "36": {
+   "source": "Reuters",
+   "title": "MDVLQ.PK",
+   "url": "https://www.reuters.com/markets/companies/MDVLQ.PK/key-metrics/growth/",
+   "desc": "",
+   "published": "2026-11-27T14:34:32+00:00"
+  },
+  "37": {
+   "source": "Reuters",
+   "title": "Dutch PM to discuss MATCH Act chipmaking export controls with Trump at G20",
+   "url": "https://www.reuters.com/technology/dutch-pm-discuss-match-act-chipmaking-export-controls-with-trump-g20-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T14:07:44+00:00"
+  },
+  "38": {
+   "source": "Reuters",
+   "title": "French sugar groups offer drought-hit farmers aid to secure plantings",
+   "url": "https://www.reuters.com/markets/commodities/french-sugar-groups-offer-drought-hit-farmers-aid-secure-plantings-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:50:53+00:00"
+  },
+  "39": {
+   "source": "Reuters",
+   "title": "US goods trade deficit widens sharply in October",
+   "url": "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:45:43+00:00"
+  },
+  "40": {
+   "source": "Reuters",
+   "title": "Czech lower house approves windfall tax on refineries",
+   "url": "https://www.reuters.com/business/energy/czech-lower-house-approves-windfall-tax-refineries-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:18:09+00:00"
+  },
+  "41": {
+   "source": "Reuters",
+   "title": "US stock selloffs trigger a new kind of dollar bounce",
+   "url": "https://www.reuters.com/business/us-stock-selloffs-trigger-new-kind-dollar-bounce-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:17:43+00:00"
+  },
+  "42": {
+   "source": "Reuters",
+   "title": "ECB may have to raise rates further as inflation stays above 3%",
+   "url": "https://www.reuters.com/business/finance/ecb-may-have-raise-rates-further-inflation-stays-above-3-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:15:43+00:00"
+  },
+  "43": {
+   "source": "Reuters",
+   "title": "DY8y.SG",
+   "url": "https://www.reuters.com/markets/companies/DY8y.SG/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T13:13:22+00:00"
+  },
+  "44": {
+   "source": "Reuters",
+   "title": "Poland signs contract with Palantir worth $300 mln over 5 years",
+   "url": "https://www.reuters.com/technology/poland-signs-contract-with-palantir-worth-300-mln-over-5-years-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:09:45+00:00"
+  },
+  "45": {
+   "source": "Reuters",
+   "title": "Australia clears gas reservation law, industry warns of prolonged uncertainty",
+   "url": "https://www.reuters.com/business/energy/australia-clears-gas-reservation-law-industry-warns-prolonged-uncertainty-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T13:09:26+00:00"
+  },
+  "46": {
+   "source": "Reuters",
+   "title": "UNBK.NS",
+   "url": "https://www.reuters.com/markets/companies/UNBK.NS/key-metrics/management-effectiveness/",
+   "desc": "",
+   "published": "2026-11-27T13:00:51+00:00"
+  },
+  "47": {
+   "source": "Reuters",
+   "title": "4112JPY.JPx",
+   "url": "https://www.reuters.com/markets/companies/4112JPY.JPx/profile/",
+   "desc": "",
+   "published": "2026-11-27T12:53:51+00:00"
+  },
+  "48": {
+   "source": "Reuters",
+   "title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget",
+   "url": "https://www.reuters.com/markets/rates-bonds/why-eu-leaders-are-struggling-le-pen-proof-blocs-16-trillion-budget-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T12:32:07+00:00"
+  },
+  "49": {
+   "source": "Reuters",
+   "title": "Global diesel market to run into deficit in second quarter of 2027",
+   "url": "https://www.reuters.com/business/energy/global-diesel-market-run-into-deficit-second-quarter-2027-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T12:25:44+00:00"
+  },
+  "50": {
+   "source": "Reuters",
+   "title": "Explainer: What is China's 'national team' and can it stop the stock market slide?",
+   "url": "https://www.reuters.com/markets/europe/what-is-chinas-national-team-can-it-stop-stock-market-slide-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T12:23:19+00:00"
+  },
+  "51": {
+   "source": "Reuters",
+   "title": "Russian domestic natural gas price may complicate talks with China, analyst says",
+   "url": "https://www.reuters.com/business/energy/russian-domestic-natural-gas-price-may-complicate-talks-with-china-analyst-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T12:21:44+00:00"
+  },
+  "52": {
+   "source": "Reuters",
+   "title": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
+   "url": "https://www.reuters.com/business/retail-consumer/global-fashion-brands-shift-orders-bangladesh-india-amid-unrest-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T12:19:31+00:00"
+  },
+  "53": {
+   "source": "Reuters",
+   "title": "BAE Systems says European combat vehicle order totals $6 billion",
+   "url": "https://www.reuters.com/business/aerospace-defense/bae-systems-says-european-combat-vehicle-order-totals-6-billion-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T12:03:43+00:00"
+  },
+  "54": {
+   "source": "Reuters",
+   "title": "UK media regulator revokes UK broadcast licence of news channel Lualua TV",
+   "url": "https://www.reuters.com/business/uk-media-regulator-revokes-uk-broadcast-licence-of-news-channel-lualua-tv-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:36:05+00:00"
+  },
+  "55": {
+   "source": "Reuters",
+   "title": "SSSC_n.BK",
+   "url": "https://www.reuters.com/markets/companies/SSSC_n.BK/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T11:27:54+00:00"
+  },
+  "56": {
+   "source": "Reuters",
+   "title": "ENES.KL",
+   "url": "https://www.reuters.com/markets/companies/ENES.KL/key-metrics/growth/",
+   "desc": "",
+   "published": "2026-11-27T11:25:53+00:00"
+  },
+  "57": {
+   "source": "Reuters",
+   "title": "Metal wage deal should serve as example for Volkswagen, IG Metall rep says",
+   "url": "https://www.reuters.com/business/world-at-work/metal-wage-deal-should-serve-example-volkswagen-ig-metall-rep-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:23:21+00:00"
+  },
+  "58": {
+   "source": "Reuters",
+   "title": "US equity funds post biggest outflows in 11 weeks as tech rout weighs",
+   "url": "https://www.reuters.com/business/us-equity-funds-post-biggest-outflows-11-weeks-tech-rout-weighs-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:17:12+00:00"
+  },
+  "59": {
+   "source": "Reuters",
+   "title": "India's Swiggy to cut 340 roles at Instamart, source says",
+   "url": "https://www.reuters.com/business/world-at-work/indias-swiggy-cut-340-roles-instamart-source-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:09:45+00:00"
+  },
+  "60": {
+   "source": "Reuters",
+   "title": "Explainer: Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+   "url": "https://www.reuters.com/business/retail-consumer/black-friday-test-retailers-tight-budgets-meet-ai-savvy-shoppers-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:07:05+00:00"
+  },
+  "61": {
+   "source": "Reuters",
+   "title": "Milei's South Atlantic ambitions test Argentina's military limits",
+   "url": "https://www.reuters.com/business/aerospace-defense/mileis-south-atlantic-ambitions-test-argentinas-military-limits-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:04:18+00:00"
+  },
+  "62": {
+   "source": "Reuters",
+   "title": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests",
+   "url": "https://www.reuters.com/business/wall-st-week-ahead-sliding-stock-market-confronts-jobs-data-rate-view-next-tests-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:03:46+00:00"
+  },
+  "63": {
+   "source": "Reuters",
+   "title": "Who is Luiz Carlos Trabuco, the banker Lula tapped to steer Brazil's economy?",
+   "url": "https://www.reuters.com/business/finance/who-is-luiz-carlos-trabuco-banker-lula-tapped-steer-brazils-economy-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T11:02:46+00:00"
+  },
+  "64": {
+   "source": "Reuters",
+   "title": "ALKAL.PA",
+   "url": "https://www.reuters.com/markets/companies/ALKAL.PA/key-metrics/management-effectiveness/",
+   "desc": "",
+   "published": "2026-11-27T10:58:02+00:00"
+  },
+  "65": {
+   "source": "Reuters",
+   "title": "TSX futures rise on strength in gold, copper",
+   "url": "https://www.reuters.com/markets/europe/tsx-futures-rise-strength-gold-copper-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:57:43+00:00"
+  },
+  "66": {
+   "source": "Reuters",
+   "title": "RCMN.D",
+   "url": "https://www.reuters.com/markets/companies/RCMN.D/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T10:56:00+00:00"
+  },
+  "67": {
+   "source": "Reuters",
+   "title": "GSm.BA",
+   "url": "https://www.reuters.com/markets/companies/GSm.BA/key-metrics/margins/",
+   "desc": "",
+   "published": "2026-11-27T10:55:31+00:00"
+  },
+  "68": {
+   "source": "Reuters",
+   "title": "ZOREN.IS",
+   "url": "https://www.reuters.com/markets/companies/ZOREN.IS/all-listings/",
+   "desc": "",
+   "published": "2026-11-27T10:52:00+00:00"
+  },
+  "69": {
+   "source": "Reuters",
+   "title": "Iraq says oil exports that bypass SOMO amount to smuggling, state new agency says",
+   "url": "https://www.reuters.com/business/energy/iraq-says-oil-exports-that-bypass-somo-amount-smuggling-state-new-agency-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:48:04+00:00"
+  },
+  "70": {
+   "source": "Reuters",
+   "title": "Slow bird flu season offers relief for Europe's poultry sector",
+   "url": "https://www.reuters.com/markets/commodities/slow-bird-flu-season-offers-relief-europes-poultry-sector-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:47:58+00:00"
+  },
+  "71": {
+   "source": "Reuters",
+   "title": "Eni bets on Latin American growth with Argentina LNG project approval imminent",
+   "url": "https://www.reuters.com/business/energy/eni-bets-latin-american-growth-with-argentina-lng-project-approval-imminent-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:36:23+00:00"
+  },
+  "72": {
+   "source": "Reuters",
+   "title": "Price and Volume",
+   "url": "https://www.reuters.com/markets/companies/O9601O.T/key-metrics/price-and-volume",
+   "desc": "",
+   "published": "2026-11-27T10:30:45+00:00"
+  },
+  "73": {
+   "source": "Reuters",
+   "title": "2026 in photos: AI, robots and new technology",
+   "url": "https://www.reuters.com/technology/2026-photos-ai-robots-new-technology-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:30:12+00:00"
+  },
+  "74": {
+   "source": "Reuters",
+   "title": "Russia is in contact with US on diesel supply, Novak says",
+   "url": "https://www.reuters.com/business/energy/russia-is-contact-with-us-diesel-supply-novak-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:23:43+00:00"
+  },
+  "75": {
+   "source": "Reuters",
+   "title": "GDSF.PA",
+   "url": "https://www.reuters.com/markets/companies/GDSF.PA/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T10:20:02+00:00"
+  },
+  "76": {
+   "source": "Reuters",
+   "title": "Russia says Novatek signs deal with Turkey on LNG supply from January 1",
+   "url": "https://www.reuters.com/business/energy/russia-says-novatek-signs-deal-with-turkey-lng-supply-january-1-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:17:43+00:00"
+  },
+  "77": {
+   "source": "Reuters",
+   "title": "Chinese ride-hailing group Didi swings to third-quarter net loss",
+   "url": "https://www.reuters.com/business/retail-consumer/chinese-ride-hailing-group-didi-swings-third-quarter-net-loss-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T10:09:43+00:00"
+  },
+  "78": {
+   "source": "Reuters",
+   "title": "LUMG.D",
+   "url": "https://www.reuters.com/markets/companies/LUMG.D/key-metrics/growth/",
+   "desc": "",
+   "published": "2026-11-27T10:00:50+00:00"
+  },
+  "79": {
+   "source": "Reuters",
+   "title": "UNTR.SG",
+   "url": "https://www.reuters.com/markets/companies/UNTR.SG/key-metrics/price-and-volume",
+   "desc": "",
+   "published": "2026-11-27T09:56:36+00:00"
+  },
+  "80": {
+   "source": "Reuters",
+   "title": "Explainer: Has organised crime penetrated South Africa's police and justice system?",
+   "url": "https://www.reuters.com/business/media-telecom/has-organised-crime-penetrated-south-africas-police-justice-system-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:53:08+00:00"
+  },
+  "81": {
+   "source": "Reuters",
+   "title": "Germany's Rheinmetall trims 2030 ambitions after project setbacks",
+   "url": "https://www.reuters.com/business/aerospace-defense/germanys-rheinmetall-trims-2030-ambitions-after-project-setbacks-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:42:01+00:00"
+  },
+  "82": {
+   "source": "Reuters",
+   "title": "Polish poultry exports at risk as bird flu returns after six-month break",
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/polish-poultry-exports-at-risk-bird-flu-returns-after-six-month-break-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:39:43+00:00"
+  },
+  "83": {
+   "source": "Reuters",
+   "title": "OPEC+ set to keep oil production targets steady in first quarter, sources say",
+   "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-production-targets-steady-first-quarter-sources-say-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:27:44+00:00"
+  },
+  "84": {
+   "source": "Reuters",
+   "title": "SAP seeks to cut sizeable number of jobs, sources say",
+   "url": "https://www.reuters.com/business/world-at-work/sap-seeks-cut-sizeable-number-jobs-sources-say-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:22:07+00:00"
+  },
+  "85": {
+   "source": "Reuters",
+   "title": "UN warns famine risks rising as hunger hotspots increase",
+   "url": "https://www.reuters.com/business/environment/un-warns-famine-risks-rising-hunger-hotspots-increase-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:04:02+00:00"
+  },
+  "86": {
+   "source": "Reuters",
+   "title": "Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
+   "url": "https://www.reuters.com/business/retail-consumer/exclusive-global-brands-shift-hundreds-millions-orders-bangladesh-india-amid-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:03:58+00:00"
+  },
+  "87": {
+   "source": "Reuters",
+   "title": "Euro zone consumers sharply increase inflation expectation, ECB survey shows",
+   "url": "https://www.reuters.com/markets/europe/euro-zone-consumers-sharply-increase-inflation-expectation-ecb-survey-shows-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:03:45+00:00"
+  },
+  "88": {
+   "source": "Reuters",
+   "title": "GMAB.PH",
+   "url": "https://www.reuters.com/markets/companies/GMAB.PH/key-metrics/",
+   "desc": "",
+   "published": "2026-11-27T09:03:18+00:00"
+  },
+  "89": {
+   "source": "Reuters",
+   "title": "Indonesian police arrest three over alleged Dian Swastatika share manipulation, official says",
+   "url": "https://www.reuters.com/business/retail-consumer/indonesian-police-arrest-three-over-alleged-dian-swastatika-share-manipulation-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T09:00:07+00:00"
+  },
+  "90": {
+   "source": "Reuters",
+   "title": "German unemployment rises more than expected in November",
+   "url": "https://www.reuters.com/markets/europe/german-unemployment-rises-more-than-expected-november-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:59:43+00:00"
+  },
+  "91": {
+   "source": "Reuters",
+   "title": "German home prices to rise at slower pace in next two years",
+   "url": "https://www.reuters.com/markets/europe/german-home-prices-rise-slower-pace-next-two-years-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:56:57+00:00"
+  },
+  "92": {
+   "source": "Reuters",
+   "title": "China's Meituan reports Q3 revenue of $17.37 billion",
+   "url": "https://www.reuters.com/business/retail-consumer/chinas-meituan-reports-q3-revenue-1737-billion-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:49:44+00:00"
+  },
+  "93": {
+   "source": "Reuters",
+   "title": "A December to remember",
+   "url": "https://www.reuters.com/business/take-five/global-markets-themes-takealook-graphics-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:43:39+00:00"
+  },
+  "94": {
+   "source": "Reuters",
+   "title": "European stocks extend recovery as tech, miners advance",
+   "url": "https://www.reuters.com/markets/europe/european-stocks-extend-recovery-tech-miners-advance-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:25:12+00:00"
+  },
+  "95": {
+   "source": "Reuters",
+   "title": "Ukraine's Zelenskiy compares Trump's friendship with Putin to friendship with Hitler",
+   "url": "https://www.reuters.com/business/media-telecom/ukraines-zelenskiy-compares-trumps-friendship-with-putin-friendship-with-hitler-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:23:43+00:00"
+  },
+  "96": {
+   "source": "Reuters",
+   "title": "French economy contracts more than expected in third quarter",
+   "url": "https://www.reuters.com/markets/europe/french-economy-contracts-more-than-expected-third-quarter-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:22:13+00:00"
+  },
+  "97": {
+   "source": "Reuters",
+   "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVGVQZnkyVFhEUG1rQW1qbXlISzVIQ3hSRkxlaTFvVkR2RnBCUllrX09nTTN4Rk5hU2tldjZkUkpXZlllNkZLc2lRWGNjYzFCbEV4eGRMV0ZrZ2ljRS0wT1Naa3hrdzd3V0IwVFg0U1JGTGJ1V3luNlVLX3praTFqSVdIOFRBX0VkaUJObTZHdEdGQmMteTFPMnNPb01KUEx0WjFhUTBDSGV3Rm55UnFlVmlnR2dHQlREMF96azZLRFYxQldQOUp0RS01ZTRJX3ZsZnc?oc=5",
+   "desc": "",
+   "published": "2026-11-27T08:18:41+00:00"
+  },
+  "98": {
+   "source": "Reuters",
+   "title": "Russian sabotage attacks in Europe up 16%, IISS says",
+   "url": "https://www.reuters.com/business/aerospace-defense/russian-sabotage-attacks-europe-up-16-iiss-says-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:17:03+00:00"
+  },
+  "99": {
+   "source": "Reuters",
+   "title": "Centre-right leader Feijoo pitches himself as the manager Spain needs",
+   "url": "https://www.reuters.com/markets/europe/centre-right-leader-feijoo-pitches-himself-manager-spain-needs-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:15:48+00:00"
+  },
+  "100": {
+   "source": "Reuters",
+   "title": "Italy weighs biggest hunting expansion in years, alarming wildlife groups",
+   "url": "https://www.reuters.com/business/environment/italy-weighs-biggest-hunting-expansion-years-alarming-wildlife-groups-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:09:44+00:00"
+  },
+  "101": {
+   "source": "Reuters",
+   "title": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November",
+   "url": "https://www.reuters.com/markets/europe/spains-12-month-eu-harmonised-inflation-falls-41-november-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T08:05:44+00:00"
+  },
+  "102": {
+   "source": "Reuters",
+   "title": "French minister pitches Franco-Italian air defence system to Swiss",
+   "url": "https://www.reuters.com/business/aerospace-defense/french-minister-pitches-franco-italian-air-defence-system-swiss-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:54:00+00:00"
+  },
+  "103": {
+   "source": "Reuters",
+   "title": "French preliminary inflation at 3.2% in November",
+   "url": "https://www.reuters.com/markets/us/french-preliminary-inflation-32-november-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:50:00+00:00"
+  },
+  "104": {
+   "source": "Reuters",
+   "title": "PKE.ZY",
+   "url": "https://www.reuters.com/markets/companies/PKE.ZY/key-metrics/growth/",
+   "desc": "",
+   "published": "2026-11-27T07:49:33+00:00"
+  },
+  "105": {
+   "source": "Reuters",
+   "title": "Norse Atlantic says lessors terminate aircraft agreements",
+   "url": "https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:39:00+00:00"
+  },
+  "106": {
+   "source": "Reuters",
+   "title": "Wall St futures surge as investors return from holiday",
+   "url": "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:34:00+00:00"
+  },
+  "107": {
+   "source": "Reuters",
+   "title": "Gavi set to restore malaria vaccine funding for countries",
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gavi-set-restore-malaria-vaccine-funding-countries-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:32:00+00:00"
+  },
+  "108": {
+   "source": "Reuters",
+   "title": "prgs.o",
+   "url": "https://www.reuters.com/markets/companies/prgs.o/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T07:31:19+00:00"
+  },
+  "109": {
+   "source": "Reuters",
+   "title": "Indonesian nickel businessman possibly involved in treason against Prabowo's government, official says",
+   "url": "https://www.reuters.com/markets/commodities/indonesian-nickel-businessman-possibly-involved-treason-against-prabowos-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:22:00+00:00"
+  },
+  "110": {
+   "source": "Reuters",
+   "title": "China's factory slump likely extends to November despite solid exports",
+   "url": "https://www.reuters.com/markets/asia/chinas-factory-slump-likely-extends-november-despite-solid-exports-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:15:00+00:00"
+  },
+  "111": {
+   "source": "Reuters",
+   "title": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
+   "url": "https://www.reuters.com/technology/russian-ai-model-fills-void-unfinished-gogol-novel-not-everyone-is-happy-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T07:03:00+00:00"
+  },
+  "112": {
+   "source": "Reuters",
+   "title": "India urges states to sign 41 GW of pending clean power contracts",
+   "url": "https://www.reuters.com/business/energy/india-urges-states-sign-41-gw-pending-clean-power-contracts-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T06:43:00+00:00"
+  },
+  "113": {
+   "source": "Reuters",
+   "title": "SAP flags security incident, says no evidence of unauthorized access to customer data",
+   "url": "https://www.reuters.com/technology/sap-flags-security-incident-says-no-evidence-unauthorized-access-customer-data-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T06:30:00+00:00"
+  },
+  "114": {
+   "source": "Reuters",
+   "title": "Thales in exclusive talks to buy controlling stake in laser tech firm Lumibird",
+   "url": "https://www.reuters.com/business/aerospace-defense/thales-exclusive-talks-buy-controlling-stake-laser-tech-firm-lumibird-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T06:28:00+00:00"
+  },
+  "115": {
+   "source": "Reuters",
+   "title": "China stocks shoot up after Beijing vows support",
+   "url": "https://www.reuters.com/markets/europe/china-stocks-shoot-up-after-beijing-vows-support-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T06:24:00+00:00"
+  },
+  "116": {
+   "source": "Reuters",
+   "title": "TILK.INx",
+   "url": "https://www.reuters.com/markets/companies/TILK.INx/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T06:23:25+00:00"
+  },
+  "117": {
+   "source": "Reuters",
+   "title": "VIEW China markets surge as Beijing unleashes national team",
+   "url": "https://www.reuters.com/markets/europe/view-china-markets-surge-beijing-unleashes-national-team-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T06:23:00+00:00"
+  },
+  "118": {
+   "source": "Reuters",
+   "title": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
+   "url": "https://www.reuters.com/business/energy/us-pushed-venezuela-iraq-consider-leaving-opec-sources-say-2026-11-27/",
+   "desc": "",
+   "published": "2026-11-27T06:02:00+00:00"
+  },
+  "119": {
+   "source": "Reuters",
+   "title": "EFX.ZY",
+   "url": "https://www.reuters.com/markets/companies/EFX.ZY/key-metrics/per-share-data/",
+   "desc": "",
+   "published": "2026-11-27T05:22:58+00:00"
+  },
+  "120": {
+   "source": "Reuters",
+   "title": "OBM.AX",
+   "url": "https://www.reuters.com/markets/companies/OBM.AX/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T05:03:01+00:00"
+  },
+  "121": {
+   "source": "Reuters",
+   "title": "NPXG.SG",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEwzclZFNmZyWU1FNGZqWmFfUzFyUFBwTHFkLWwtV19GbXVBT2pwNnhUUk5mSFF0TjN3OUlGa1dsOFRraHJfRENLaGY1VzhfdlRBNkdlaktNeEd5RWJNa1E5dGpIN2ZRUWZTMDE0aDZyMTRPdXNNY09kRHB3U2k4MTJpVlVkUmR1?oc=5",
+   "desc": "",
+   "published": "2026-11-27T04:10:00+00:00"
+  },
+  "122": {
+   "source": "Reuters",
+   "title": "CNU.AX",
+   "url": "https://www.reuters.com/markets/companies/CNU.AX/key-metrics/growth/",
+   "desc": "",
+   "published": "2026-11-27T03:39:18+00:00"
+  },
+  "123": {
+   "source": "Reuters",
+   "title": "DND.SG",
+   "url": "https://www.reuters.com/markets/companies/DND.SG/key-metrics/financial-strength/",
+   "desc": "",
+   "published": "2026-11-27T02:45:41+00:00"
+  },
+  "124": {
+   "source": "Reuters",
+   "title": "ENRG.V",
+   "url": "https://www.reuters.com/markets/companies/ENRG.V/key-metrics/price-and-volume/",
+   "desc": "",
+   "published": "2026-11-27T02:38:44+00:00"
+  },
+  "125": {
+   "source": "Bloomberg",
+   "title": "Nvidia Tech Used in China, American Jets Clip Wings, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-28/nvidia-tech-used-in-china-american-jets-clip-wings-more",
+   "desc": "Source: Bloomberg, 5:34",
+   "published": "2026-11-28T04:36:12+00:00"
+  },
+  "126": {
+   "source": "Bloomberg",
+   "title": "American Airlines Jets Clip Wings, Nvidia Chip Used in China",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-28/american-airlines-jets-clip-wings-nvidia-chip-used-in-china",
+   "desc": "Source: Bloomberg, 5:26",
+   "published": "2026-11-28T03:47:59+00:00"
+  },
+  "127": {
+   "source": "Bloomberg",
+   "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+   "desc": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchasing.",
+   "published": "2026-11-28T03:01:44+00:00"
+  },
+  "128": {
+   "source": "Bloomberg",
+   "title": "American Airlines Jets Clip Wings,Nvidia Chip Used in China,More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-28/american-airlines-jets-clip-wings-nvidia-chip-used-in-china-more",
+   "desc": "Source: Bloomberg, 6:34",
+   "published": "2026-11-28T02:08:21+00:00"
+  },
+  "129": {
+   "source": "Bloomberg",
+   "title": "American Airlines Jets Clip Wings at Reagan National Airport",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-28/american-airlines-jets-clip-wings-at-reagan-national-airport",
+   "desc": "Two American Airlines jets clipped wings at Ronald Reagan Washington National Airport, the latest incident to put a spotlight on aviation safety in the US after a series of accidents and air-traffic disruptions.",
+   "published": "2026-11-28T00:52:30+00:00"
+  },
+  "130": {
+   "source": "Bloomberg",
+   "title": "Nvidia Blackwell Tech Used in China, Reuters: USAF Hacked, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-28/nvidia-blackwell-tech-used-in-china-reuters-usaf-hacked-more",
+   "desc": "Source: Bloomberg, 5:42",
+   "published": "2026-11-28T00:05:54+00:00"
+  },
+  "131": {
+   "source": "Bloomberg",
+   "title": "Nvidia Chip Used in China, Reuters: US Air Force Hacked, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-reuters-us-air-force-hacked-more",
+   "desc": "Source: Bloomberg, 5:01",
+   "published": "2026-11-27T23:10:53+00:00"
+  },
+  "132": {
+   "source": "Bloomberg",
+   "title": "Anthropic Ends Week Above IPO Price: Evening Briefing Americas",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/anthropic-ends-week-above-ipo-price-evening-briefing-americas",
+   "desc": "Get caught up.",
+   "published": "2026-11-27T22:41:40+00:00"
+  },
+  "133": {
+   "source": "Bloomberg",
+   "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+   "desc": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+   "published": "2026-11-27T22:29:56+00:00"
+  },
+  "134": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Hot Pursuit!: The Autopian's Matt Hardigree (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-hot-pursuit-the-autopian-s-matt-hardigree-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T22:16:54+00:00"
+  },
+  "135": {
+   "source": "Bloomberg",
+   "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+   "desc": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the US dollar, and how Bessemer evolved from a single family office to a $300 billion enterprise. They also discuss how they navigate building generational wealth and moderating family conflicts. (Source: Bloomberg)",
+   "published": "2026-11-27T22:14:41+00:00"
+  },
+  "136": {
+   "source": "Bloomberg",
+   "title": "Black Friday Shoppers Trim Budgets While Thanksgiving Spending Hits $7.1 Billion",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/black-friday-shoppers-trim-budgets-while-thanksgiving-spending-hits-7-1-billion",
+   "desc": "Plus: FDI rises to its highest level in over two years",
+   "published": "2026-11-27T22:11:42+00:00"
+  },
+  "137": {
+   "source": "Bloomberg",
+   "title": "Nvidia Chip Used in China, OpenAI Countersues Apple, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-openai-countersues-apple-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T21:55:47+00:00"
+  },
+  "138": {
+   "source": "Bloomberg",
+   "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+   "desc": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+   "published": "2026-11-27T21:19:31+00:00"
+  },
+  "139": {
+   "source": "Bloomberg",
+   "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+   "desc": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays.",
+   "published": "2026-11-27T21:05:05+00:00"
+  },
+  "140": {
+   "source": "Bloomberg",
+   "title": "Ford CEO Jim Farley Talks Ford GT41 and Racing (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/ford-ceo-jim-farley-talks-ford-gt41-and-racing-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T20:42:34+00:00"
+  },
+  "141": {
+   "source": "Bloomberg",
+   "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
+   "desc": "Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset.",
+   "published": "2026-11-27T20:24:01+00:00"
+  },
+  "142": {
+   "source": "Bloomberg",
+   "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
+   "url": "https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google",
+   "desc": "Google, Amazon, Meta y OpenAI compiten por ayudarte a elegir los regalos de Navidad. ¿A quién escucharán los compradores?",
+   "published": "2026-11-27T20:02:48+00:00"
+  },
+  "143": {
+   "source": "Bloomberg",
+   "title": "Chinese Firms Install Nvidia Blackwell, Stocks Rally, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/chinese-firms-install-nvidia-blackwell-stocks-rally-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T20:00:55+00:00"
+  },
+  "144": {
+   "source": "Bloomberg",
+   "title": "Stock Movers: AI Stocks, Alvotech, Vertex (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-ai-stocks-alvotech-vertex-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T19:41:48+00:00"
+  },
+  "145": {
+   "source": "Bloomberg",
+   "title": "New York Senate Majority Leader Andrea Stewart-Cousins Dies",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-york-senate-majority-leader-andrea-stewart-cousins-dies",
+   "desc": "New York Senate Majority Leader Andrea Stewart-Cousins died Friday, just weeks after being reelected to another term as head of one of the largest Democratic conferences in state history.",
+   "published": "2026-11-27T19:07:22+00:00"
+  },
+  "146": {
+   "source": "Bloomberg",
+   "title": "Nvidia Blackwell Tech Used in China, Stocks Climb, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-blackwell-tech-used-in-china-stocks-climb-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T19:02:33+00:00"
+  },
+  "147": {
+   "source": "Bloomberg",
+   "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+   "desc": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.",
+   "published": "2026-11-27T19:02:10+00:00"
+  },
+  "148": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Businessweek Weekend - November 27th, 2026 (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-businessweek-weekend-november-27th-2026-podcast",
+   "desc": "Source: Bloomberg, 40:33",
+   "published": "2026-11-27T18:50:56+00:00"
+  },
+  "149": {
+   "source": "Bloomberg",
+   "title": "Stock Movers: Nvidia, Dollar Tree, Verizon (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-nvidia-dollar-tree-verizon-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T18:50:46+00:00"
+  },
+  "150": {
+   "source": "Bloomberg",
+   "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+   "desc": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+   "published": "2026-11-27T18:43:36+00:00"
+  },
+  "151": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Businessweek Daily: Black Friday Special (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-businessweek-daily-black-friday-special-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T18:36:26+00:00"
+  },
+  "152": {
+   "source": "Bloomberg",
+   "title": "Markets Close Higher, Nvidia Chip Used at China, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/markets-close-higher-nvidia-chip-used-at-china-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T18:13:08+00:00"
+  },
+  "153": {
+   "source": "Bloomberg",
+   "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says",
+   "desc": "Verizon Communications Inc. is in talks to buy the broadband operator Fidium in a $6 billion deal, the Financial Times reported, a move that would expand its network and allow the mobile giant to target more internet service subscribers across the US.",
+   "published": "2026-11-27T18:12:57+00:00"
+  },
+  "154": {
+   "source": "Bloomberg",
+   "title": "Masters in Business: Holly MacDonald (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/masters-in-business-holly-macdonald-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T18:04:23+00:00"
+  },
+  "155": {
+   "source": "Bloomberg",
+   "title": "Weekend Law: Supreme Court Special (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/weekend-law-supreme-court-special-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T17:52:16+00:00"
+  },
+  "156": {
+   "source": "Bloomberg",
+   "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
+   "desc": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+   "published": "2026-11-27T17:36:52+00:00"
+  },
+  "157": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Businessweek Daily: Powering the Energy Boom (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-businessweek-daily-powering-the-energy-boom-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T17:33:32+00:00"
+  },
+  "158": {
+   "source": "Bloomberg",
+   "title": "GTA VI’s Record Launch Makes the Case for Human-Made",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/gta-vi-s-record-launch-makes-the-case-for-human-made-video",
+   "desc": "Grand Theft Auto VI arrived after 13 years in development and it was made without using any generative AI according to Take-Two CEO Strauss Zelnick. It smashed all kinds of records. Gordon Bellamy, Director of Ethics at the USC School of Cinematic Arts, discusses what Rockstar’s blockbuster says about the value of human-made content in the AI era, why its extraordinary launch could reshape holiday spending across the gaming industry, and what smaller studios can learn from GTA VI’s success. (Source: Bloomberg)",
+   "published": "2026-11-27T17:31:45+00:00"
+  },
+  "159": {
+   "source": "Bloomberg",
+   "title": "Hong Kong Is Selling The City It Used To Be (Video)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/hong-kong-is-selling-the-city-it-used-to-be-video",
+   "desc": "",
+   "published": "2026-11-27T17:23:53+00:00"
+  },
+  "160": {
+   "source": "Bloomberg",
+   "title": "Nvidia Chip Used In China, Reuters: USAF Hacked, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-reuters-usaf-hacked-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T17:12:20+00:00"
+  },
+  "161": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Intelligence: Black Friday 2026 Special (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-intelligence-black-friday-2026-special-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T17:05:07+00:00"
+  },
+  "162": {
+   "source": "Bloomberg",
+   "title": "France’s Economic Slowdown Is Steeper Than Previously Expected",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/france-s-economic-slowdown-is-steeper-than-previously-expected",
+   "desc": "Get Caught Up.",
+   "published": "2026-11-27T17:05:00+00:00"
+  },
+  "163": {
+   "source": "Bloomberg",
+   "title": "Black Friday 2026: Shoppers Try to Cut Back, Hunt for Deals",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-2026-shoppers-cut-back-hunt-for-deals-video",
+   "desc": "Black Friday spending is projected to rise in 2026 as wary shoppers stock up early on essentials and lean into deals. Bloomberg’s Annie Bang reports. (Source: Bloomberg)",
+   "published": "2026-11-27T17:02:24+00:00"
+  },
+  "164": {
+   "source": "Bloomberg",
+   "title": "Anthropic Shares Jump After Volatile Week Since IPO",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+   "desc": "Anthropic PBC shares climbed above their $83 initial public offering price as the artificial intelligence lab looked to end its first calendar week on the Nasdaq after its record-setting debut on a positive note.",
+   "published": "2026-11-27T16:49:08+00:00"
+  },
+  "165": {
+   "source": "Bloomberg",
+   "title": "UK Steel Sector Says UK-EU Agreement Gives Rivals Unfair Edge",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/uk-steel-sector-says-uk-eu-agreement-gives-rivals-unfair-edge",
+   "desc": "Britain’s steel sector wants the government to reverse part of its recent deal with the European Union, which it says gives the bloc’s steel exporters an unfair advantage over their UK peers.",
+   "published": "2026-11-27T16:43:13+00:00"
+  },
+  "166": {
+   "source": "Bloomberg",
+   "title": "Colombia Peso Stumbles as Mounting Risks Test Carry-Fueled Rally",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+   "desc": "The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.",
+   "published": "2026-11-27T16:37:27+00:00"
+  },
+  "167": {
+   "source": "Bloomberg",
+   "title": "Lula escolhe Trabuco para acalmar mercado",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/lula-escolhe-trabuco-para-acalmar-mercado-video",
+   "desc": "Martha Beck fala da escolha de Lula por Trabuco para a Fazenda. Edição de Patricia Xavier. (Source: Bloomberg)",
+   "published": "2026-11-27T16:24:06+00:00"
+  },
+  "168": {
+   "source": "Bloomberg",
+   "title": "Blackwell Tech in China, Storms Subdue Black Friday Crowds, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/blackwell-tech-in-china-storms-subdue-black-friday-crowds-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T16:10:24+00:00"
+  },
+  "169": {
+   "source": "Bloomberg",
+   "title": "Altice International, Creditors Discuss Debt Cut of About 40%",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/altice-international-creditors-discuss-debt-cut-of-about-40",
+   "desc": "Altice International and its creditors are making progress on a restructuring that would include a debt cut of about 40%, and possibly more, with lenders taking control from billionaire Patrick Drahi, according to people familiar with the matter.",
+   "published": "2026-11-27T16:07:27+00:00"
+  },
+  "170": {
+   "source": "Bloomberg",
+   "title": "Canadian Bank Q4 Earnings Preview: Bonuses, Capital Markets and 2027 Outlook",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/canadian-bank-q4-earnings-preview-bonuses-capital-markets-and-2027-outlook",
+   "desc": "Also: Canada’s telecom dealmaking frenzy",
+   "published": "2026-11-27T16:04:15+00:00"
+  },
+  "171": {
+   "source": "Bloomberg",
+   "title": "US chip curbs put billions in Asian data center loans under scrutiny",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/us-chip-curbs-put-billions-in-asian-data-center-loans-under-scrutiny",
+   "desc": "Asia’s lucrative AI financing trade runs into Washington’s chip curbs.",
+   "published": "2026-11-27T16:00:02+00:00"
+  },
+  "172": {
+   "source": "Bloomberg",
+   "title": "Anterix Could Be SpaceX’s Next Deal for Mobile Network Access",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/anterix-could-be-spacex-s-next-deal-for-mobile-network-access",
+   "desc": "In SpaceX’s insatiable hunt for wireless spectrum as it marches toward becoming a full-fledged mobile service provider, there’s a likely motherlode in its sights: Anterix Inc.",
+   "published": "2026-11-27T15:58:46+00:00"
+  },
+  "173": {
+   "source": "Bloomberg",
+   "title": "AI Tools Reshape the Black Friday Experience",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video",
+   "desc": "As the holiday shopping season ramps up, retail sales are expected to top $1 trillion for the first time, with shoppers indicating they will spend more this year than last. They are also expected to give AI more say over what they buy. Anjee Solanki, National Director of Retail, US at Colliers, explains what the first true \"agentic AI\" holiday season means for shoppers. (Source: Bloomberg)",
+   "published": "2026-11-27T15:54:40+00:00"
+  },
+  "174": {
+   "source": "Bloomberg",
+   "title": "The Big Pressures Facing the Fed",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/the-big-pressures-facing-the-fed",
+   "desc": "And the hard question they have to answer.",
+   "published": "2026-11-27T15:53:26+00:00"
+  },
+  "175": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Talks: Matt Shay (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-talks-matt-shay-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T15:47:45+00:00"
+  },
+  "176": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Talks: Dana Telsey (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-talks-dana-telsey-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T15:45:25+00:00"
+  },
+  "177": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Talks: Brian Kelly (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-talks-brian-kelly-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T15:42:25+00:00"
+  },
+  "178": {
+   "source": "Bloomberg",
+   "title": "Brick-and-Mortar Making a Comeback on Experience, Says Dana Telsey",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/brick-and-mortar-making-a-comeback-says-dana-telsey-video",
+   "desc": "Black Friday got off to a gloomy start on the East Coast, as the stormy weather that postponed the Macy’s Thanksgiving Parade dragged into the early morning and subdued lines for some of the biggest in-person deals of the year. Dana Telsey, CEO at Telsey Advisory Group, discusses how retail is shaping up heading into the Black Friday shopping weekend. (Source: Bloomberg)",
+   "published": "2026-11-27T15:42:25+00:00"
+  },
+  "179": {
+   "source": "Bloomberg",
+   "title": "Rains Ease El Niño Crop Fears in Brazil’s Top Soybean Region",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/rains-ease-el-nino-crop-fears-in-brazil-s-top-soybean-region",
+   "desc": "A sea of vigorous, leafy green plants deep inside Brazil’s top soybean region is easing fears that El Niño would bring crop losses to the world’s top producer.",
+   "published": "2026-11-27T15:42:01+00:00"
+  },
+  "180": {
+   "source": "Bloomberg",
+   "title": "Tech Disruptors: SAP CTO on How AI Disrupts Enterprise Software",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/tech-disruptors-sap-cto-on-how-ai-disrupts-enterprise-software",
+   "desc": "“People are now rediscovering deterministic workflows and kind of celebrate this as the new thing,” Philipp Herzig, Chief Technology Officer at SAP, tells Bloomberg Intelligence Senior Technology Analyst Anurag Rana. In this episode, the pair discuss whether AI disrupts enterprise software or makes it more valuable, how Joule Work and Spaces are changing the user interface and how SAP governs increasingly autonomous agents through AI Agent Hub. Herzig explains how a knowledge graph spanning 7 mi",
+   "published": "2026-11-27T15:41:50+00:00"
+  },
+  "181": {
+   "source": "Bloomberg",
+   "title": "Blackwell Chips in China, Storms Dampen Black Friday, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/blackwell-chips-in-china-storms-dampen-black-friday-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T15:16:26+00:00"
+  },
+  "182": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Daybreak Weekend: US Jobs Preview (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-daybreak-weekend-us-jobs-preview-podcast",
+   "desc": "Source: Bloomberg, 38:58",
+   "published": "2026-11-27T15:09:58+00:00"
+  },
+  "183": {
+   "source": "Bloomberg",
+   "title": "AI Can Level Playing Field for Travelers, Kelly Says",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-can-level-playing-field-for-travelers-kelly-says-video",
+   "desc": "Brian Kelly, \"The Points Guy,\" says AI can help level the playing field for airline travelers, and he says use those airline miles as fast as you can. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+   "published": "2026-11-27T15:07:24+00:00"
+  },
+  "184": {
+   "source": "Bloomberg",
+   "title": "No Quick Legal Relief for Patriarch in Lawsuit Against Tata Sons",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/no-quick-legal-relief-for-patriarch-in-lawsuit-against-tata-sons",
+   "desc": "An Indian court refused any immediate relief in Tata Trusts’ lawsuit against Tata Sons Pvt. and allowed the company board to meet on Monday, as the power struggle atop the $185-billion conglomerate escalates into a legal wrangle.",
+   "published": "2026-11-27T15:03:16+00:00"
+  },
+  "185": {
+   "source": "Bloomberg",
+   "title": "How an Aluminum Squeeze Brought the LME to the Brink of Crisis Again",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
+   "desc": "As a historic supply squeeze started to take hold of the global aluminum market in early November, the London Metal Exchange began receiving increasingly desperate calls pleading for it to step in.",
+   "published": "2026-11-27T15:01:52+00:00"
+  },
+  "186": {
+   "source": "Bloomberg",
+   "title": "How AI Is Changing Black Friday",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video",
+   "desc": "Matt Shay, president and CEO of the National Retail Federation, says this may mark a step change in how consumers interact with retailers, as AI begins changing how shoppers shop on Black Friday. (Source: Bloomberg)",
+   "published": "2026-11-27T15:00:20+00:00"
+  },
+  "187": {
+   "source": "Bloomberg",
+   "title": "UK Pension Agency Takes Systems Offline After Cyber Incident",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/uk-pension-agency-takes-systems-offline-after-cyber-incident",
+   "desc": "The UK government’s Department for Work and Pensions took systems offline on Friday as a precautionary measure after officials detected a cyber incident.",
+   "published": "2026-11-27T14:56:55+00:00"
+  },
+  "188": {
+   "source": "Bloomberg",
+   "title": "Can Russia Ever Change From Within (Video)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/can-russia-ever-change-from-within-video",
+   "desc": "",
+   "published": "2026-11-27T14:54:25+00:00"
+  },
+  "189": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Surveillance TV: November 27th, 2026 (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-surveillance-tv-november-27th-2026-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T14:53:06+00:00"
+  },
+  "190": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Surveillance: Black Friday (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-surveillance-black-friday-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T14:52:25+00:00"
+  },
+  "191": {
+   "source": "Bloomberg",
+   "title": "Bain’s Luca Bassi Picks His Next Flywheel Investment",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/bain-s-luca-bassi-picks-his-next-flywheel-investment",
+   "desc": "The private equity veteran shares his thoughts on investing across payments, software and football.",
+   "published": "2026-11-27T14:49:42+00:00"
+  },
+  "192": {
+   "source": "Bloomberg",
+   "title": "US Storm Triggers East Coast Power Outages",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-storm-triggers-east-coast-power-outages-video",
+   "desc": "More than 500,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in parts of New York City and inundated commuter rail lines in New Jersey on Thanksgiving Day. (Source: Various via AP)",
+   "published": "2026-11-27T14:47:10+00:00"
+  },
+  "193": {
+   "source": "Bloomberg",
+   "title": "Stocks Rise at Open, Blackwells in China, Black Friday, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stocks-rise-at-open-blackwells-in-china-black-friday-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T14:37:43+00:00"
+  },
+  "194": {
+   "source": "Bloomberg",
+   "title": "Russia to Ban Exports of Key Staple Buckwheat to Protect Supply",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-to-ban-exports-of-key-staple-buckwheat-to-protect-supply",
+   "desc": "Russia will temporarily ban buckwheat exports as it seeks to protect supplies of the key foodstuff amid accelerating inflation.",
+   "published": "2026-11-27T14:33:28+00:00"
+  },
+  "195": {
+   "source": "Bloomberg",
+   "title": "Nvidia Pares Gains on Blackwell Report; Altria Lower | Stock Movers",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-pares-gains-altria-moves-lower-stock-movers-video",
+   "desc": "Today's biggest winners and losers in the stock market. On this episode of Stock Movers: - Nvidia (NVDA) shares are higher even though news broke this morning that a pair of Chinese firms installed Nvidia Corp's powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang. The gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia's most powerful products, according to a serial number specified in documents submitted to Chinese regulators. - Altria (MO) shares are declining after the company issued a statement on Nov. 26 confirming early media speculation that it is considering an all cash offer for British cigarette maker Imperial Brands. - SAP (SAP) shares are moving in response to news it is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era. (Source: Bloomberg)",
+   "published": "2026-11-27T14:33:01+00:00"
+  },
+  "196": {
+   "source": "Bloomberg",
+   "title": "Dangerous Nor’easter Storm Triggers Widespread Power Outages",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
+   "desc": "More than 500,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in Queens and inundated commuter rail lines in New Jersey on Thanksgiving Day.",
+   "published": "2026-11-27T14:20:06+00:00"
+  },
+  "197": {
+   "source": "Bloomberg",
+   "title": "Stock Movers: NVDA, MO, SAP (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-nvda-mo-sap-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T14:10:16+00:00"
+  },
+  "198": {
+   "source": "Bloomberg",
+   "title": "AI Will Help Consumers Save Money This Holiday Shopping Season",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/ai-will-help-consumers-save-money-this-holiday-shopping-season",
+   "desc": "Data shows that consumers think they’ll get a better deal with AI help.",
+   "published": "2026-11-27T14:02:11+00:00"
+  },
+  "199": {
+   "source": "Bloomberg",
+   "title": "Europe Braces for Election Season as Spain Votes",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-braces-for-election-season-as-spain-votes",
+   "desc": "Spanish Prime Minister Pedro Sanchez has been one of Europe’s most high-profile socialists",
+   "published": "2026-11-27T14:00:01+00:00"
+  },
+  "200": {
+   "source": "Bloomberg",
+   "title": "Blackwells Surface in China, Black Friday Spending to Rise, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/blackwells-surface-in-china-black-friday-spending-to-rise-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T13:42:15+00:00"
+  },
+  "201": {
+   "source": "Bloomberg",
+   "title": "Poland Warns on Tech Debt Flood Before 2027 Eurobond Sales",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-warns-on-tech-debt-flood-before-2027-eurobond-sales",
+   "desc": "Poland is planning to tap international markets in early 2027 even as it warned of a flood of corporate borrowing clamoring for investor attention.",
+   "published": "2026-11-27T13:36:03+00:00"
+  },
+  "202": {
+   "source": "Bloomberg",
+   "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
+   "url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
+   "desc": "Bloomberg reporters take your questions about UK and European markets in a Live Q&A on Tuesday, December 1 at 1 p.m. GMT",
+   "published": "2026-11-27T13:35:54+00:00"
+  },
+  "203": {
+   "source": "Bloomberg",
+   "title": "Bank Indonesia Says Policy Focus on Stability, Inflation in 2027",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/bank-indonesia-says-policy-focus-on-stability-inflation-in-2027",
+   "desc": "Bank Indonesia will stay focused on stability next year as it pursues monetary policy that keeps inflation within its target range, while confronting sustained pressure on the rupiah.",
+   "published": "2026-11-27T13:31:11+00:00"
+  },
+  "204": {
+   "source": "Bloomberg",
+   "title": "El Niño, Flooding Put Squeeze on South African Fruit Producers",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/el-nino-flooding-put-squeeze-on-south-african-fruit-producers",
+   "desc": "South Africa’s high-value fruit exports are under pressure due to adverse weather ranging from winter floods to heat waves linked to the El Niño weather phenomenon, with growers cutting harvest forecasts for grapes and stone fruit.",
+   "published": "2026-11-27T13:13:40+00:00"
+  },
+  "205": {
+   "source": "Bloomberg",
+   "title": "Turkey’s Tightening Steps Show Early Signs of Calming Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-s-tightening-steps-show-early-signs-of-calming-markets",
+   "desc": "Turkey’s latest steps to tighten financial conditions are showing early signs of bringing stability to the country’s turbulent markets and slowing the unwind in popular carry trades.",
+   "published": "2026-11-27T13:12:01+00:00"
+  },
+  "206": {
+   "source": "Bloomberg",
+   "title": "Why the World Is Running Short of Construction Sand",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/why-the-world-is-running-short-of-construction-sand",
+   "desc": "Sand seems limitless, but surging demand is turning the exposing gaps in how the building block of cities is extracted, traded and regulated.",
+   "published": "2026-11-27T13:00:01+00:00"
+  },
+  "207": {
+   "source": "Bloomberg",
+   "title": "Votes & Verdicts: Nvidia Risks, Data Centers, Credit Card Caps",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/votes-verdicts-nvidia-risks-data-centers-credit-card-caps",
+   "desc": "Legal, regulatory and policy developments are creating new risks across technology, finance and media. Analysis of Nvidia’s legal risks and upcoming hearings before Congress leads this episode of Bloomberg Intelligence’s Votes & Verdicts. We also discuss state and municipality policy risks for data-center projects and the chances of Congress passing a proposed permitting bill. The team explores the possibility of legislation capping credit card interest rates for banks such as Bank of Americ",
+   "published": "2026-11-27T13:00:00+00:00"
+  },
+  "208": {
+   "source": "Bloomberg",
+   "title": "Blackwell Chips Surface in China, Reuters: USAF Hacked, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/blackwell-chips-surface-in-china-reuters-usaf-hacked-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T12:57:30+00:00"
+  },
+  "209": {
+   "source": "Bloomberg",
+   "title": "PBOC Warns of Rising Uncertainty, Pledges Ample Liquidity",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/pboc-warns-of-rising-uncertainty-pledges-ample-liquidity",
+   "desc": "The People’s Bank of China said uncertainties and unpredictable factors are increasing as the country faces a more complex development environment, while pledging to keep liquidity ample.",
+   "published": "2026-11-27T12:57:24+00:00"
+  },
+  "210": {
+   "source": "Bloomberg",
+   "title": "Ofwat Warns Thames Water Rescue Decision Remains Months Away",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/ofwat-warns-thames-water-rescue-decision-remains-months-away",
+   "desc": "The UK’s water regulator has warned it is still months away from making a decision on whether to approve a rescue of Thames Water by its creditors.",
+   "published": "2026-11-27T12:47:58+00:00"
+  },
+  "211": {
+   "source": "Bloomberg",
+   "title": "¿Volverá la derecha al poder en España?",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
+   "desc": "España vota tras casi tres años de enorme tensión. Las encuestas apuntan a un regreso de la derecha, pero en 2023 también lo hicieron y Pedro Sánchez logró mantenerse en el poder. ¿Qué está en juego esta vez? (Source: Bloomberg)",
+   "published": "2026-11-27T12:41:55+00:00"
+  },
+  "212": {
+   "source": "Bloomberg",
+   "title": "Europe Has Too Much Wind, Not Enough Power Grid",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-has-too-much-wind-not-enough-power-grid",
+   "desc": "The continent is adding renewable electricity faster than the infrastructure needed to move it, leaving consumers to pay the price.",
+   "published": "2026-11-27T12:33:42+00:00"
+  },
+  "213": {
+   "source": "Bloomberg",
+   "title": "Poland Signs $300 Million Palantir Deal to Use AI for Defense",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+   "desc": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+   "published": "2026-11-27T12:30:04+00:00"
+  },
+  "214": {
+   "source": "Bloomberg",
+   "title": "Modi May Double Down on Delimitation to Regain Political Ground",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/modi-may-double-down-on-delimitation-to-regain-political-ground",
+   "desc": "If Modi succeeds, the expanded Parliament could give more seats to the populous northern states where the BJP has traditionally been stronger.",
+   "published": "2026-11-27T12:30:01+00:00"
+  },
+  "215": {
+   "source": "Bloomberg",
+   "title": "BlackRock Supercharges Aladdin for Investors’ Private Markets Era",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/blackrock-supercharges-aladdin-for-investors-private-markets-era",
+   "desc": "Risk management tool gets makeover as more clients rejig investment approach",
+   "published": "2026-11-27T12:29:34+00:00"
+  },
+  "216": {
+   "source": "Bloomberg",
+   "title": "French Economy Heads Into an Unhappy Holiday Season",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/french-economy-heads-into-an-unhappy-holiday-season",
+   "desc": "A shrinking GDP, consumer pessimism and falling business activity all point to a gloomy end to the year.",
+   "published": "2026-11-27T12:27:39+00:00"
+  },
+  "217": {
+   "source": "Bloomberg",
+   "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-brief-11-27-2026-video",
+   "desc": "US investors return from the holiday with a rally in equity futures as a tech recovery gains momentum. EU leaders cut budget talks short after failing to negotiate a long-term funding plan. Shoppers prepare for Black Friday as retailers navigate higher fuel costs and consumers tightening their belts. Marija Veitmane of State Street joins \"Bloomberg Brief\" to discuss the stock rebound, and Nadia Martin Wiggen of Svelland Capital takes a look at the oil market as attacks in the Middle East escalates. (Source: Bloomberg)",
+   "published": "2026-11-27T12:20:10+00:00"
+  },
+  "218": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Wall Street Week: Michigan Manufacturing (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-wall-street-week-michigan-manufacturing-podcast",
+   "desc": "Source: Bloomberg, 48:00",
+   "published": "2026-11-27T12:18:42+00:00"
+  },
+  "219": {
+   "source": "Bloomberg",
+   "title": "Big Take: AI Shopping Bots Are the New Gift Guides (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/big-take-ai-shopping-bots-are-the-new-gift-guides-podcast",
+   "desc": "Source: Bloomberg, 13:40",
+   "published": "2026-11-27T12:17:25+00:00"
+  },
+  "220": {
+   "source": "Bloomberg",
+   "title": "How Britain Is Stocking Up for the Next Crisis",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/how-britain-is-stocking-up-for-the-next-crisis",
+   "desc": "The government wants households to be ready for emergencies. Britons are responding with cash, tinned food and UHT milk — though most still say they’re unprepared.",
+   "published": "2026-11-27T12:16:59+00:00"
+  },
+  "221": {
+   "source": "Bloomberg",
+   "title": "Thanksgiving Storm Snarls Holiday Travel",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/thanksgiving-storm-snarls-holiday-travel",
+   "desc": "Here’s what you need to know to start your day: Morning Briefing Americas",
+   "published": "2026-11-27T12:12:33+00:00"
+  },
+  "222": {
+   "source": "Bloomberg",
+   "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+   "desc": "AI-assisted traffic to US retail sites this holiday season will more than double last year’s, according to Adobe, demonstrating consumers are shifting from search engines to digital assistants. Bloomberg Intelligence's Abigail Gilmartin has the details. (Source: Bloomberg)",
+   "published": "2026-11-27T12:12:23+00:00"
+  },
+  "223": {
+   "source": "Bloomberg",
+   "title": "Breaking: Nvidia Blackwell Chips Surface in China",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/breaking-nvidia-blackwell-chips-surface-in-china",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T12:11:48+00:00"
+  },
+  "224": {
+   "source": "Bloomberg",
+   "title": "Stock Movers: Nvidia, AI Stocks, Altria (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-nvidia-ai-stocks-altria-podcast",
+   "desc": "Source: Bloomberg, 3:56",
+   "published": "2026-11-27T12:07:57+00:00"
+  },
+  "225": {
+   "source": "Bloomberg",
+   "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video",
+   "desc": "A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, despite US restrictions on the hardware. (Source: Bloomberg)",
+   "published": "2026-11-27T12:06:34+00:00"
+  },
+  "226": {
+   "source": "Bloomberg",
+   "title": "SAP Struggles With Turnover in the Executive Team",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/sap-struggles-with-turnover-in-the-executive-team",
+   "desc": "The software company is trying to fill big gaps in its executive team",
+   "published": "2026-11-27T12:02:01+00:00"
+  },
+  "227": {
+   "source": "Bloomberg",
+   "title": "Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/polish-president-blocks-pre-election-tax-cut-in-new-blow-to-tusk",
+   "desc": "Polish President Karol Nawrocki blocked legislation that would’ve cut personal income taxes, in a fresh blow to Donald Tusk’s efforts to deliver financial relief for some voters before next year’s general ballot.",
+   "published": "2026-11-27T12:00:28+00:00"
+  },
+  "228": {
+   "source": "Bloomberg",
+   "title": "Doomsday Prepping Goes Mainstream, and Costco Spies an Opportunity",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/doomsday-prepping-goes-mainstream-and-costco-spies-an-opportunity",
+   "desc": "It’s dehydrated pasta Alfredo, canned beans and gochujang-flavored Spam.",
+   "published": "2026-11-27T12:00:01+00:00"
+  },
+  "229": {
+   "source": "Bloomberg",
+   "title": "India’s Richest Civic Body Will Open Bond Sales to Retail Buyers",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
+   "desc": "Mumbai’s civic authority, India’s richest, plans to tap individual investors through future bond sales to help finance urban infrastructure projects.",
+   "published": "2026-11-27T11:59:50+00:00"
+  },
+  "230": {
+   "source": "Bloomberg",
+   "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo",
+   "desc": "LIAN Group, a developer of infrastructure for artificial intelligence and computing, has chosen London as the venue for a potential initial public offering next year, in what would be a boost to the city’s lackluster market for new listings.",
+   "published": "2026-11-27T11:49:21+00:00"
+  },
+  "231": {
+   "source": "Bloomberg",
+   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+   "desc": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+   "published": "2026-11-27T11:45:46+00:00"
+  },
+  "232": {
+   "source": "Bloomberg",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+   "desc": "Deutsche Boerse AG’s €5.3 billion ($5.8 billion) deal for Allfunds Group Plc has won European Union unconditional approval, paving the way for the largest acquisition in the German exchange operator’s history.",
+   "published": "2026-11-27T11:30:00+00:00"
+  },
+  "233": {
+   "source": "Bloomberg",
+   "title": "Next Africa: The Hidden Cost of the Sand Rush (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/next-africa-the-hidden-cost-of-the-sand-rush-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T11:28:46+00:00"
+  },
+  "234": {
+   "source": "Bloomberg",
+   "title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
+   "desc": "Fidelidade – Companhia de Seguros SA is preparing for a potential initial public offering in Lisbon as soon as the second half of 2027, according to people familiar with the matter.",
+   "published": "2026-11-27T11:25:27+00:00"
+  },
+  "235": {
+   "source": "Bloomberg",
+   "title": "Thanksgiving Storm Hits East Coast, Tech Rebound in Stocks, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/thanksgiving-storm-hits-east-coast-tech-rebound-in-stocks-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T11:24:37+00:00"
+  },
+  "236": {
+   "source": "Bloomberg",
+   "title": "EU Budget Talks Break Down; Spain Set to Vote",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-opening-trade-11-27-2026-video",
+   "desc": "European Union leaders cut budget talks short during a summit in Brussels after frustrated countries refused to budge in negotiations over the bloc’s long-term funding plan. Meanwhile, Spaniards prepare to vote in a general election on Sunday, with Prime Minister Pedro Sánchez fighting to stay in office. The Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
+   "published": "2026-11-27T11:22:47+00:00"
+  },
+  "237": {
+   "source": "Bloomberg",
+   "title": "Hackers Breached US Air Force’s Cloud Platform, Says Reuters",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform",
+   "desc": "Hackers breached the US Air Force’s flagship cloud infrastructure, called Cloud One, potentially putting military applications and sensitive personal data at risk, Reuters reported on Friday.",
+   "published": "2026-11-27T11:20:39+00:00"
+  },
+  "238": {
+   "source": "Bloomberg",
+   "title": "Stock Bulls Stir Again After Weeks of AI Anxiety",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/stock-bulls-stir-again-after-weeks-of-ai-anxiety",
+   "desc": "Traders are making the case for a short-term rebound.",
+   "published": "2026-11-27T11:16:37+00:00"
+  },
+  "239": {
+   "source": "Bloomberg",
+   "title": "Chip Stocks Look 'Very Attractive,' State Street Says",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/chip-stocks-look-very-attractive-state-street-says-video",
+   "desc": "Marija Veitmane of State Street says technology industry fundamentals have not weakened as much as the recent market selloff and outflows might suggest, and sees signs that sentiment is \"normalizing.\" Speaking on Bloomberg Television, she says the pullback is an opportunity for bargain hunting, especially in semiconductors. (Source: Bloomberg)",
+   "published": "2026-11-27T11:16:20+00:00"
+  },
+  "240": {
+   "source": "Bloomberg",
+   "title": "Altria’s Interest in Imperial May Also Affect Its AB InBev Stake",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/altria-s-interest-in-imperial-may-also-affect-its-ab-inbev-stake",
+   "desc": "A possible three-way deal to reshape the global tobacco industry may also spill over into another business whose products are sometimes consumed alongside cigarettes — beer.",
+   "published": "2026-11-27T11:14:59+00:00"
+  },
+  "241": {
+   "source": "Bloomberg",
+   "title": "Here's Why Germany's Car Crisis May End 35-Hour Weeks (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/here-s-why-germany-s-car-crisis-may-end-35-hour-weeks-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T11:14:55+00:00"
+  },
+  "242": {
+   "source": "Bloomberg",
+   "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
+   "desc": "Turkey’s Vice President Cevdet Yilmaz said payments from liquidated investment funds will be based on the market price of assets they carry, signaling that many small investors may not recover their full principal.",
+   "published": "2026-11-27T11:13:18+00:00"
+  },
+  "243": {
+   "source": "Bloomberg",
+   "title": "SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video",
+   "desc": "“The Pulse With Francine Lacqua” is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today’s guests: Mohit Kumar, Jefferies Chief European Economist & Strategist; Ronald Lamola, South Africa Minister of International Relations & Cooperation; Alberto Nadal, Spanish People’s Party Deputy Economy Secretary; Carla Hobbs, European Council on Foreign Relations Madrid Office Head (Source: Bloomberg)",
+   "published": "2026-11-27T11:11:54+00:00"
+  },
+  "244": {
+   "source": "Bloomberg",
+   "title": "Northvolt, Stegra, Polarium: Sweden’s Green Industry Stumbles Again",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/northvolt-stegra-polarium-sweden-s-green-industry-stumbles-again",
+   "desc": "Money troubles plague companies intended to drive climate-friendly tech",
+   "published": "2026-11-27T11:01:50+00:00"
+  },
+  "245": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Daybreak: Thanksgiving Storm Hits East Coast (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-daybreak-thanksgiving-storm-hits-east-coast-podcast",
+   "desc": "Source: Bloomberg, 16:03",
+   "published": "2026-11-27T10:46:20+00:00"
+  },
+  "246": {
+   "source": "Bloomberg",
+   "title": "Stock Movers: Glencore, Entain, Rheinmetall (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-glencore-entain-rheinmetall-podcast",
+   "desc": "Source: Bloomberg, 4:36",
+   "published": "2026-11-27T10:44:02+00:00"
+  },
+  "247": {
+   "source": "Bloomberg",
+   "title": "Storm Power Outage, Trump Questions GDP Data, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/storm-power-outage-trump-questions-gdp-data-more",
+   "desc": "Source: Bloomberg, 6:19",
+   "published": "2026-11-27T10:41:55+00:00"
+  },
+  "248": {
+   "source": "Bloomberg",
+   "title": "Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/why-next-fed-meeting-may-mark-turning-point-for-markets-video",
+   "desc": "Mohit Kumar, chief European economist and strategist at Jefferies, discusses the outlook for the Federal Reserve's December policy meeting and its potential impact on markets. \"My base case is that is the peak in hawkishness,\" Kumar tells Bloomberg Television. \"That is, in my mind, the turning point for markets.\" (Source: Bloomberg)",
+   "published": "2026-11-27T10:36:01+00:00"
+  },
+  "249": {
+   "source": "Bloomberg",
+   "title": "JSE Courts Dangote Refinery Secondary Listing in Expansion Push",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/jse-courts-dangote-refinery-secondary-listing-in-expansion-push",
+   "desc": "Africa’s biggest stock exchange is working with Dangote Group to pave the way for a potential secondary listing of its giant oil refinery in Johannesburg, an outcome the bourse’s chief said would be the ideal next step after its landmark Nigerian initial public offering.",
+   "published": "2026-11-27T10:21:56+00:00"
+  },
+  "250": {
+   "source": "Bloomberg",
+   "title": "Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-extends-jet-fuel-export-ban-to-march-on-refinery-attacks",
+   "desc": "Russia extended a ban on most jet fuel exports by four months through March to keep its domestic market supplied as Ukraine continues to attack the country’s refineries.",
+   "published": "2026-11-27T09:54:59+00:00"
+  },
+  "251": {
+   "source": "Bloomberg",
+   "title": "Rwanda Wins F1 Hosting Rights in Bet on Tourism (Video)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
+   "desc": "",
+   "published": "2026-11-27T09:54:26+00:00"
+  },
+  "252": {
+   "source": "Bloomberg",
+   "title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
+   "desc": "South Korea’s National Pension Service saw its assets shrink by about 202 trillion won ($151.4 billion) in the third quarter as a stock-market retreat eroded some of the out-sized gains accumulated earlier this year.",
+   "published": "2026-11-27T09:53:15+00:00"
+  },
+  "253": {
+   "source": "Bloomberg",
+   "title": "Stock Movers: ASML, Entain, Acciona Energia (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-asml-entain-acciona-energia-podcast",
+   "desc": "Source: Bloomberg, 4:20",
+   "published": "2026-11-27T09:49:44+00:00"
+  },
+  "254": {
+   "source": "Bloomberg",
+   "title": "Cooler Inflation In Europe, Sanchez Warns Spain, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/cooler-inflation-in-europe-sanchez-warns-spain-more",
+   "desc": "Source: Bloomberg, 7:04",
+   "published": "2026-11-27T09:32:39+00:00"
+  },
+  "255": {
+   "source": "Bloomberg",
+   "title": "India’s RBI to Help Small Firms Grow Globally, Malhotra Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-rbi-to-help-small-firms-grow-globally-malhotra-says",
+   "desc": "The Reserve Bank of India will strengthen its credit infrastructure to help the country’s small businesses scale up and compete globally, Governor Sanjay Malhotra said.",
+   "published": "2026-11-27T09:30:00+00:00"
+  },
+  "256": {
+   "source": "Bloomberg",
+   "title": "China Surprises Investors With Statement of Support for Markets",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/china-surprises-investors-with-statement-of-support-for-markets",
+   "desc": "Get caught up.",
+   "published": "2026-11-27T09:26:52+00:00"
+  },
+  "257": {
+   "source": "Bloomberg",
+   "title": "Isabella Weber's Vision for an Affordability Agenda",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
+   "desc": "A conversation with the author of Anti-Fascist Economics.",
+   "published": "2026-11-27T09:00:22+00:00"
+  },
+  "258": {
+   "source": "Bloomberg",
+   "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
+   "desc": "The most important word in politics right now is affordability. It was a winning issue in the midterms for Democrats, and one of the reasons why people across Europe are out in the streets protesting: Food, housing, and energy are getting more expensive by the day. During the height of the pandemic, we talked a lot about inflation with Isabella Weber, and her on what governments can do to make life more affordable has evolved into a book called Anti-Fascist Economics: In Defense of Affordability",
+   "published": "2026-11-27T09:00:00+00:00"
+  },
+  "259": {
+   "source": "Bloomberg",
+   "title": "French & Spanish Inflation Slows, ASML Export Battle, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/french-spanish-inflation-slows-asml-export-battle-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T08:59:04+00:00"
+  },
+  "260": {
+   "source": "Bloomberg",
+   "title": "Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
+   "desc": "Dubai stocks have erased all losses since the Iran war began, transforming from the Gulf’s biggest laggard into one of its best performers, driven by government support and resilient economic activity.",
+   "published": "2026-11-27T08:43:08+00:00"
+  },
+  "261": {
+   "source": "Bloomberg",
+   "title": "China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
+   "desc": "Chinese bank bond spreads are heading for their biggest monthly increase since September 2024, as debt strain at a major state-owned conglomerate ripples through the broader credit market.",
+   "published": "2026-11-27T08:36:16+00:00"
+  },
+  "262": {
+   "source": "Bloomberg",
+   "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video",
+   "desc": "Nvidia reinstated Jensen Huang as CEO, sending tech stocks soaring. But it wasn't enough to quell jitters in the artificial intelligence trade. Bloomberg's \"The Opening Trade\" spoke to global strategists and tech leaders about whether recent volatility signals a new era for AI investment. (Source: Bloomberg)",
+   "published": "2026-11-27T08:26:29+00:00"
+  },
+  "263": {
+   "source": "Bloomberg",
+   "title": "US Investors Will Have to Chase Rally: Market Analysis",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-investors-will-have-to-chase-rally-3-minutes-mliv-video",
+   "desc": "Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+   "published": "2026-11-27T08:22:28+00:00"
+  },
+  "264": {
+   "source": "Bloomberg",
+   "title": "Hong Kong Dollar Hits Six-Month High as Funding Costs Climb",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/hong-kong-dollar-hits-six-month-high-as-funding-costs-climb",
+   "desc": "The Hong Kong dollar extended its rally to a six-month high, propelled by surging local borrowing costs and demand from investors snapping up the city’s equities amid a rally in Chinese stocks.",
+   "published": "2026-11-27T08:18:13+00:00"
+  },
+  "265": {
+   "source": "Bloomberg",
+   "title": "Qatar’s LNG Export Push Provides Lifeline to South Asian Buyers",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/qatar-s-lng-export-push-provides-lifeline-to-south-asian-buyers",
+   "desc": "Qatar’s efforts to export more liquefied natural gas through the Strait of Hormuz are already saving money for South Asia’s cash-strapped importers of the super-chilled fuel.",
+   "published": "2026-11-27T08:16:09+00:00"
+  },
+  "266": {
+   "source": "Bloomberg",
+   "title": "China’s CNGR Weighs Building an Aluminum Smelter in Indonesia",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cngr-weighs-building-an-aluminum-smelter-in-indonesia",
+   "desc": "CNGR Advanced Material Co. is considering plans to build an aluminum smelter in Indonesia, the latest Chinese company looking to join a major expansion of capacity in the country.",
+   "published": "2026-11-27T08:13:10+00:00"
+  },
+  "267": {
+   "source": "Bloomberg",
+   "title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+   "desc": "US stocks are poised to rebound, with risk appetite returning after a selloff that brought the Nasdaq 100 index to the brink of a bear market.",
+   "published": "2026-11-27T07:56:20+00:00"
+  },
+  "268": {
+   "source": "Bloomberg",
+   "title": "Horizons Middle East & Africa 11/27/2026 (Video)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/horizons-middle-east-africa-11-27-2026-video",
+   "desc": "",
+   "published": "2026-11-27T07:52:46+00:00"
+  },
+  "269": {
+   "source": "Bloomberg",
+   "title": "High Stakes Spanish Election, €2 Trillion EU Budget Dispute,More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/high-stakes-spanish-election-2-trillion-eu-budget-dispute-more",
+   "desc": "Source: Bloomberg, 8:07",
+   "published": "2026-11-27T07:48:33+00:00"
+  },
+  "270": {
+   "source": "Bloomberg",
+   "title": "Watch Stockpiling in Oil Markets in 2027: Energy Aspects",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/watch-stockpiling-in-oil-markets-in-2027-energy-aspects-video",
+   "desc": "Oil stockpiling will be important factor for the next couple of years, potentially tightening the market and aiding prices even with a projected global surplus, according to Energy Aspects Ltd. (Source: Bloomberg)",
+   "published": "2026-11-27T07:45:20+00:00"
+  },
+  "271": {
+   "source": "Bloomberg",
+   "title": "Pay Policy at South Africa’s Momentum Passes With 51% Support",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/pay-policy-at-south-africa-s-momentum-passes-with-51-support",
+   "desc": "Shareholders in Momentum Group Ltd. narrowly approved the South African insurer’s remuneration policy as new rules give investors in the nation’s firms greater say over compensation.",
+   "published": "2026-11-27T07:42:09+00:00"
+  },
+  "272": {
+   "source": "Bloomberg",
+   "title": "Indonesia Palm Oil Tenders Stall on Weak Demand and Tight Supply",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/indonesia-palm-oil-tenders-stall-on-weak-demand-and-tight-supply",
+   "desc": "Indonesia’s state-linked palm oil tenders failed to produce a single deal in the past week as tight supply and weak overseas demand kept buyers and sellers far apart on price.",
+   "published": "2026-11-27T07:36:17+00:00"
+  },
+  "273": {
+   "source": "Bloomberg",
+   "title": "Imperial Brands Attracts Suitors as UK Stock Market Set to Shrink Further",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/imperial-brands-attracts-suitors-as-uk-stock-market-set-to-shrink-further",
+   "desc": "Plus, warnings from the BOE on the dangers of AI",
+   "published": "2026-11-27T07:31:46+00:00"
+  },
+  "274": {
+   "source": "Bloomberg",
+   "title": "Stabilizing Forces Make Europe an AI-Storm Shelter: Taking Stock",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/stabilizing-forces-make-europe-an-ai-storm-shelter-taking-stock",
+   "desc": "Europe’s appeal has far from dimmed for investors, with its stocks providing shelter from the wild swings driven by the artificial intelligence trade elsewhere.",
+   "published": "2026-11-27T07:20:55+00:00"
+  },
+  "275": {
+   "source": "Bloomberg",
+   "title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/insight-with-haslinda-amin-11-27-2026-video",
+   "desc": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+   "published": "2026-11-27T07:15:14+00:00"
+  },
+  "276": {
+   "source": "Bloomberg",
+   "title": "Top Africa Fund Manager Buys Grit’s Embassy, Data-Center Assets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/top-africa-fund-manager-buys-grit-s-embassy-data-center-assets",
+   "desc": "Africa’s largest fund manager is buying Grit Real Estate Income Group Ltd.’s development unit, including its data-center and US embassy portfolio on the continent, with the property firm likely to delist from bourses in London and Mauritius.",
+   "published": "2026-11-27T07:12:00+00:00"
+  },
+  "277": {
+   "source": "Bloomberg",
+   "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/sap-prepares-plan-to-cut-at-least-10-000-positions-video",
+   "desc": "SAP is weighing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter. Bloomberg’s Ruhell Amin reports. (Source: Bloomberg)",
+   "published": "2026-11-27T07:01:31+00:00"
+  },
+  "278": {
+   "source": "Bloomberg",
+   "title": "Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/indonesia-arrests-three-over-trades-in-stock-scrutinized-by-msci",
+   "desc": "Indonesian police said Friday they had arrested three people over alleged manipulation of shares of PT Dian Swastatika Sentosa, one of three companies tied to regulatory sanctions announced last month after MSCI Inc. proposed a two-step downgrade of Indonesia’s market status.",
+   "published": "2026-11-27T06:59:35+00:00"
+  },
+  "279": {
+   "source": "Bloomberg",
+   "title": "Equities Extend Recovery as AI Trade Rebounds (Video)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video",
+   "desc": "",
+   "published": "2026-11-27T06:57:14+00:00"
+  },
+  "280": {
+   "source": "Bloomberg",
+   "title": "FTSE 100 Live: UK Stocks Poised Join Global Stock Rebound",
+   "url": "https://www.bloomberg.com/news/live-blog/2026-11-27/ftse-100-live-updates-pound-gilts-ai-stocks-treasuries-hsbc-copper-euro-what-s-moving-uk-markets-right-now-markets-today-mwymmeef",
+   "desc": "",
+   "published": "2026-11-27T06:54:51+00:00"
+  },
+  "281": {
+   "source": "Bloomberg",
+   "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit",
+   "desc": "Vietnam expects to sign a trade deal with the US that will result in a significantly lower final tariff rate as the two countries inch closer to a reciprocal trade agreement.",
+   "published": "2026-11-27T06:44:25+00:00"
+  },
+  "282": {
+   "source": "Bloomberg",
+   "title": "Spanish Election Showdown, EU Budget Disputes Grow, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/spanish-election-showdown-eu-budget-disputes-grow-more",
+   "desc": "Source: Bloomberg, 7:54",
+   "published": "2026-11-27T06:43:36+00:00"
+  },
+  "283": {
+   "source": "Bloomberg",
+   "title": "Bloomberg Daybreak Europe: Spain's Election Showdown (Podcast)",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-daybreak-europe-spain-s-election-showdown-podcast",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T06:40:50+00:00"
+  },
+  "284": {
+   "source": "Bloomberg",
+   "title": "Oil Stockpiling to Influence Market in 2027, Energy Aspects Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/oil-stockpiling-to-influence-market-in-2027-energy-aspects-says",
+   "desc": "Oil stockpiling will be important factor for the next couple of years, potentially tightening the market and aiding prices even with a projected global surplus, according to Energy Aspects Ltd.",
+   "published": "2026-11-27T06:31:45+00:00"
+  },
+  "285": {
+   "source": "Bloomberg",
+   "title": "Ziemba: Oil Supply Risks Outweigh OPEC+ Moves (Video)",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
+   "desc": "",
+   "published": "2026-11-27T06:22:58+00:00"
+  },
+  "286": {
+   "source": "Bloomberg",
+   "title": "Global Stocks Rise as AI Trade Revives: Morning Briefing Europe",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/global-stocks-rise-as-ai-trade-revives-morning-briefing-europe",
+   "desc": "Get caught up.",
+   "published": "2026-11-27T06:21:48+00:00"
+  },
+  "287": {
+   "source": "Bloomberg",
+   "title": "Huawei Teases AI Chip to Rival Giants SK Hynix, Samsung",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-china-show-11-27-2026-video",
+   "desc": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+   "published": "2026-11-27T06:20:34+00:00"
+  },
+  "288": {
+   "source": "Bloomberg",
+   "title": "Asian Stocks Extend Recovery as AI Trade Rebounds",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-asia-trade-11-27-2026-video",
+   "desc": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+   "published": "2026-11-27T06:16:34+00:00"
+  },
+  "289": {
+   "source": "Bloomberg",
+   "title": "The Rate Bets That Backfired on Hedge Funds In Europe This Year",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/the-rate-bets-that-backfired-on-hedge-funds-in-europe-this-year",
+   "desc": "Some of the most popular European trades among hedge funds this year were big-picture bets on spreads narrowing back to their long-term averages. Thanks to soaring oil prices and French political turmoil, many of them backfired.",
+   "published": "2026-11-27T06:15:00+00:00"
+  },
+  "290": {
+   "source": "Bloomberg",
+   "title": "Will the Nvidia Saga Stunt Chinese AI?",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
+   "desc": "Jensen Huang's shocking return to Nvidia has brought some relief to the AI trade, but the political fallout is already in motion and is set to tighten Chinese firms' access to advanced chips. Bloomberg Tech: Asia examines what it means for the US-China tech rivalry, China's AI ambitions, and the Southeast Asian economies tied to the supply chain. Annabelle Droulers spoke with Epoch AI Senior Supply Chain Researcher Isabel Juniewicz about US-China AI chip flows, and Counterpoint Research's Wei Sun about the future of Chinese internet companies and AI labs. (Source: Bloomberg)",
+   "published": "2026-11-27T06:10:54+00:00"
+  },
+  "291": {
+   "source": "Bloomberg",
+   "title": "Thanksgiving Storm Hits, US Tariffs Draw Reaction, More",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-27/thanksgiving-storm-hits-us-tariffs-draw-reaction-more",
+   "desc": "Source: Bloomberg, 0:00",
+   "published": "2026-11-27T04:40:02+00:00"
+  },
+  "292": {
+   "source": "Bloomberg",
+   "title": "Codelco Loses Commercial Boss to Trafigura in Latest Shakeup",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/codelco-extends-management-shake-up-with-new-commercial-boss",
+   "desc": "Codelco Chief Commercial Officer Braim Chiple resigned to take up a role at Trafigura Group, the latest management change at the Chilean state-owned copper producer under new Chief Executive Officer Jorge Gómez.",
+   "published": "2026-11-27T01:29:39+00:00"
+  },
+  "293": {
+   "source": "Financial Times",
+   "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+   "url": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+   "desc": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+   "published": "2026-11-28T05:00:41+00:00"
+  },
+  "294": {
+   "source": "Financial Times",
+   "title": "Row erupts over plan to make next NHS chief one of highest-paid civil servants",
+   "url": "https://www.ft.com/content/7167cdb4-d905-44ea-bee8-0d686e375fae?syn-25a6b1a6=1",
+   "desc": "NHS England says it has not been able to advertise the role amid finger-pointing in government departments",
+   "published": "2026-11-28T05:00:41+00:00"
+  },
+  "295": {
+   "source": "Financial Times",
+   "title": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+   "url": "https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1",
+   "desc": "Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025",
+   "published": "2026-11-28T05:00:41+00:00"
+  },
+  "296": {
+   "source": "Financial Times",
+   "title": "US military repelled drones at RAF base",
+   "url": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+   "desc": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
+   "published": "2026-11-28T05:00:41+00:00"
+  },
+  "297": {
+   "source": "Financial Times",
+   "title": "The nightmare of starring in your own TV show",
+   "url": "https://www.ft.com/content/7fcb3e9b-9164-4f3d-85e1-7d5f89da60b9?syn-25a6b1a6=1",
+   "desc": "After a long day at work, don’t we deserve a break from ourselves?",
+   "published": "2026-11-28T05:00:41+00:00"
+  },
+  "298": {
+   "source": "Financial Times",
+   "title": "How to get more UK money into UK equity markets",
+   "url": "https://www.ft.com/content/71b43a99-b58e-492a-8227-9ea49bec9a5d?syn-25a6b1a6=1",
+   "desc": "A run of US outperformance hasn’t helped, but over five years, the FTSE 100 is up 80 per cent versus 68 per cent for the S&P 500",
+   "published": "2026-11-28T05:00:41+00:00"
+  },
+  "299": {
+   "source": "Financial Times",
+   "title": "What’s really behind the sex recession?",
+   "url": "https://www.ft.com/content/2771d3f4-f6c3-4a50-a8e7-24e0fa919648?syn-25a6b1a6=1",
+   "desc": "As young people struggle to navigate relationships, we might be looking at a lack of opportunity rather than libido",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "300": {
+   "source": "Financial Times",
+   "title": "‘Only in America’ and other good lies",
+   "url": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+   "desc": "Diverse societies need noble myths to keep them whole",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "301": {
+   "source": "Financial Times",
+   "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+   "url": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
+   "desc": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "302": {
+   "source": "Financial Times",
+   "title": "How politics lost its power",
+   "url": "https://www.ft.com/content/42481b02-7031-4e86-b4ad-9c7f383ff845",
+   "desc": "Voter turnout is higher than ever and public life is increasingly defined by protest — yet change remains elusive. Welcome to the age of ‘hyperpolitics’, says Anton Jäger",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "303": {
+   "source": "Financial Times",
+   "title": "Why Jensen Huang’s daily therapy sets a healthy example",
+   "url": "https://www.ft.com/content/cc26cc08-6d49-4e33-933c-6ccd5e8064e4?syn-25a6b1a6=1",
+   "desc": "Seeking to alleviate mental health problems is one more global challenge tech innovators could take on",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "304": {
+   "source": "Financial Times",
+   "title": "Sadiq Khan backs plan to pedestrianise London’s Regent Street",
+   "url": "https://www.ft.com/content/605c45de-1cdc-43b6-85d1-59fda64f5bf0?syn-25a6b1a6=1",
+   "desc": "The success of the Oxford Street traffic ban has led to calls for the wider transformation of the capital’s streets",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "305": {
+   "source": "Financial Times",
+   "title": "Inside the magpie mind of Peter Blake",
+   "url": "https://www.ft.com/content/198fa7d1-872d-4f72-bde9-6c2fa4c132ec",
+   "desc": "At Pitzhanger Manor, a recreation of the artist’s studio reveals how a lifetime of collecting curiosities has fuelled his art and imagination",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "306": {
+   "source": "Financial Times",
+   "title": "My 200mn steps — and why I’ve been doing them all wrong",
+   "url": "https://www.ft.com/content/c3e2abca-9e8d-4c49-bb2d-4215aea04a10?syn-25a6b1a6=1",
+   "desc": "What a Japanese gait guru taught me about feet, flexibility and running right",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "307": {
+   "source": "Financial Times",
+   "title": "Falling student numbers will hit property markets all over the UK",
+   "url": "https://www.ft.com/content/12760b28-2a70-4671-985b-45e00746cc29",
+   "desc": "The student boom helped transform housing in university towns and cities — now the tide is turning",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "308": {
+   "source": "Financial Times",
+   "title": "The mathematicians living through an AI revolution",
+   "url": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+   "desc": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+   "published": "2026-11-28T05:00:32+00:00"
+  },
+  "309": {
+   "source": "Financial Times",
+   "title": "Milo Rau on The Pelicot Trial: ‘We wanted to continue her political act’",
+   "url": "https://www.ft.com/content/2cfa9fd7-e95a-42cf-84fb-2b5f5fd680f0?syn-25a6b1a6=1",
+   "desc": "Bringing the horrors of Gisèle Pelicot’s case to the stage is more than an artistic undertaking, say its directors — it is an act of collective reckoning",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "310": {
+   "source": "Financial Times",
+   "title": "A flight of fancy",
+   "url": "https://www.ft.com/content/b5d5f89b-c7dc-40bc-9cf0-a429bf2056fa?syn-25a6b1a6=1",
+   "desc": "What can a flock of birds teach us about changing direction?",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "311": {
+   "source": "Financial Times",
+   "title": "Short cuts: Lufthansa’s snarky clothing line and the ‘world’s southernmost’ hotel",
+   "url": "https://www.ft.com/content/b792f63f-6363-4df0-8063-38417ef6db99?syn-25a6b1a6=1",
+   "desc": "The German airline launches a ‘travel etiquette collection’ while Silversea opens a hotel that sets a record for latitude — or does it?",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "312": {
+   "source": "Financial Times",
+   "title": "The best champagne and sparkling wine for Christmas 2026",
+   "url": "https://www.ft.com/content/f2f7d06f-ffa0-436a-9086-34209d450b14",
+   "desc": "Jancis Robinson’s top bottles of fizz for the festive season, from £12 to £1,800",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "313": {
+   "source": "Financial Times",
+   "title": "The Diplomat: the hunt for an elusive cocaine trafficker who made borders disappear",
+   "url": "https://www.ft.com/content/290cc22b-83f4-442e-9470-c3f30f816239?syn-25a6b1a6=1",
+   "desc": "For decades, Ali Koleilat trafficked drugs and weapons across borders, evading justice by posing as a government official. He didn’t know how closely he was being watched",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "314": {
+   "source": "Financial Times",
+   "title": "Ondine, St Andrews: ‘Still thinking about that soup!’ — restaurant review",
+   "url": "https://www.ft.com/content/2f78ef84-821b-44a5-8640-b1b7a73e1ae9?syn-25a6b1a6=1",
+   "desc": "The much-loved Edinburgh restaurant has resurfaced in a new guise up the coast. Chef Roy Brett has lost none of his touch",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "315": {
+   "source": "Financial Times",
+   "title": "The little court that’s never been busier. Or under more pressure",
+   "url": "https://www.ft.com/content/1c5e962f-d2db-4ecc-8ab8-0294c1d41dbe",
+   "desc": "Critics are determined to dismantle it but the ICC’s trial of former Philippines president Rodrigo Duterte is the biggest in its history",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "316": {
+   "source": "Financial Times",
+   "title": "Marc Brunel’s American dream",
+   "url": "https://www.ft.com/content/4c426f2c-f9a8-4ecc-bc50-0a013539298e?syn-25a6b1a6=1",
+   "desc": "The famed engineer and father of Isambard Kingdom fled the French Revolution for New York. Now his great-great-great-great-great granddaughter traces her transatlantic inheritance",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "317": {
+   "source": "Financial Times",
+   "title": "Millions of pension scheme members eye growing UK plan surpluses",
+   "url": "https://www.ft.com/content/f1249918-b0f0-4db4-96f1-549fe94b51cd?syn-25a6b1a6=1",
+   "desc": "Defined benefit scheme trustees to be given new options",
+   "published": "2026-11-28T05:00:25+00:00"
+  },
+  "318": {
+   "source": "Financial Times",
+   "title": "Copper thieves prey on Japan’s ancient shrines in AI frenzy",
+   "url": "https://www.ft.com/content/98b72508-3d41-4f03-9a9a-bfb345e3a902?syn-25a6b1a6=1",
+   "desc": "Priests forced to abandon tradition and favour cheaper steel to repair roofs",
+   "published": "2026-11-28T01:01:26+00:00"
+  },
+  "319": {
+   "source": "Financial Times",
+   "title": "The Chinese car champion turning to police and nurse robots",
+   "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+   "desc": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+   "published": "2026-11-28T01:00:07+00:00"
+  },
+  "320": {
+   "source": "Financial Times",
+   "title": "Letter: Applying the classical meaning of virtue to Nvidia’s volte-face",
+   "url": "https://www.ft.com/content/d2bc915b-8156-4a13-91c7-990cf897bfe8",
+   "desc": "From Frank Mantero, Shelton, CT, US",
+   "published": "2026-11-28T00:12:11+00:00"
+  },
+  "321": {
+   "source": "Financial Times",
+   "title": "Letter: The Silicon Valley legal drama getting rave reviews",
+   "url": "https://www.ft.com/content/e53ef1bf-efbd-4c4e-85c6-1e1169c481d5",
+   "desc": "From Susan O’Malley, San Francisco, CA, US",
+   "published": "2026-11-28T00:09:49+00:00"
+  },
+  "322": {
+   "source": "Financial Times",
+   "title": "Letter: Here’s an easy mitigation to cut UK childcare costs",
+   "url": "https://www.ft.com/content/f672b2ce-7640-4dfa-94ab-945ebb8420b7",
+   "desc": "From Shaun Daley, Brno, Czech Republic",
+   "published": "2026-11-28T00:09:07+00:00"
+  },
+  "323": {
+   "source": "Financial Times",
+   "title": "Letter: For high streets to survive, they need more than shops",
+   "url": "https://www.ft.com/content/00a9dcb4-74fd-4edd-8802-fa1175bcfc31",
+   "desc": "From Professor Laura Vaughan, Professor of Urban Form and Society, Director of Space Syntax Laboratory at the UCL Bartlett School of Architecture, London WC1, UK",
+   "published": "2026-11-28T00:08:07+00:00"
+  },
+  "324": {
+   "source": "Financial Times",
+   "title": "Letter: Was that not the question Keynes wanted us to ask?",
+   "url": "https://www.ft.com/content/840441c9-6bfe-4b66-a877-89838fc67ad5",
+   "desc": "From Pavel Krejčí, Lecturer, The Education University of Hong Kong",
+   "published": "2026-11-28T00:07:08+00:00"
+  },
+  "325": {
+   "source": "Financial Times",
+   "title": "Letter: Heaney’s canny kennings",
+   "url": "https://www.ft.com/content/37c9dfb6-e675-430e-bc26-ebbe1da17778",
+   "desc": "From Austen Lynch, Garstang, Lancashire, UK",
+   "published": "2026-11-28T00:06:07+00:00"
+  },
+  "326": {
+   "source": "Financial Times",
+   "title": "Letter: Comic punctuation",
+   "url": "https://www.ft.com/content/7bc9c80d-479c-4add-a4ee-1644cea228a1",
+   "desc": "From Tony Mills, Malmesbury, Wiltshire, UK",
+   "published": "2026-11-28T00:05:07+00:00"
+  },
+  "327": {
+   "source": "Financial Times",
+   "title": "Letter: 007 would be more gallant",
+   "url": "https://www.ft.com/content/3776f867-52d0-4ca8-926d-b11d59f6ac8c",
+   "desc": "From Giovanna Forte, Brighton, UK",
+   "published": "2026-11-28T00:04:07+00:00"
+  },
+  "328": {
+   "source": "Financial Times",
+   "title": "Letter: Beijing’s emissions offer little holiday cheer",
+   "url": "https://www.ft.com/content/4dc888ee-03b4-4007-963e-ec290a246e50",
+   "desc": "From Steve Williams, Catumet, MA, US",
+   "published": "2026-11-28T00:03:07+00:00"
+  },
+  "329": {
+   "source": "Financial Times",
+   "title": "Letter: Recalling Sickert’s waspish take on a Bloomsbury duo",
+   "url": "https://www.ft.com/content/19cf97ef-dc6d-4e43-a04d-81c884cea701",
+   "desc": "From Luke Farey, Research Director, Piano Nobile Gallery, London W11, UK",
+   "published": "2026-11-28T00:02:07+00:00"
+  },
+  "330": {
+   "source": "Financial Times",
+   "title": "Correction: World Markets at a Glance graphic",
+   "url": "https://www.ft.com/content/254401d6-7d98-43b4-8f23-1f0a4e38d12e",
+   "desc": "The Nasdaq Composite index fell 5.28% on Friday November 20. Due to a production error, the World Markets at a Glance graphic on November 21 wrongly showed it had risen 5.36%. We apologise for the error",
+   "published": "2026-11-28T00:01:07+00:00"
+  },
+  "331": {
+   "source": "Financial Times",
+   "title": "FT Crossword: Number 18,544",
+   "url": "https://www.ft.com/content/8a659466-98a4-4f6d-a145-09457d29a50d",
+   "desc": "",
+   "published": "2026-11-28T00:00:07+00:00"
+  },
+  "332": {
+   "source": "Financial Times",
+   "title": "FT Crossword: Polymath number 1,415",
+   "url": "https://www.ft.com/content/e4fad447-14df-447f-ac7b-bea531abbb9a",
+   "desc": "",
+   "published": "2026-11-28T00:00:07+00:00"
+  },
+  "333": {
+   "source": "Financial Times",
+   "title": "Candidate dubbed ‘diehard separatist’ by China shakes up Taipei election",
+   "url": "https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1",
+   "desc": "Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028",
+   "published": "2026-11-27T23:50:03+00:00"
+  },
+  "334": {
+   "source": "Financial Times",
+   "title": "South Africa’s credit rating upgraded after years of economic stagnation",
+   "url": "https://www.ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95?syn-25a6b1a6=1",
+   "desc": "S&P says Pretoria’s ‘fiscal performance has consistently outperformed budget targets’",
+   "published": "2026-11-27T23:13:58+00:00"
+  },
+  "335": {
+   "source": "Financial Times",
+   "title": "S&P puts France on negative outlook",
+   "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+   "desc": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+   "published": "2026-11-27T21:34:13+00:00"
+  },
+  "336": {
+   "source": "Financial Times",
+   "title": "Transcript: Brexit beartraps for Labour, Tories and Reform",
+   "url": "https://www.ft.com/content/4ac18955-29aa-48ef-be5b-7fa58e3a91a7?syn-25a6b1a6=1",
+   "desc": "Lucy Fisher talks to Jim Pickard and David Sheppard",
+   "published": "2026-11-27T20:30:50+00:00"
+  },
+  "337": {
+   "source": "Financial Times",
+   "title": "Canada upholds law barring public sector workers from wearing religious symbols",
+   "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1",
+   "desc": "National Council of Canadian Muslims says ruling is a ‘significant setback’ for rights",
+   "published": "2026-11-27T19:33:28+00:00"
+  },
+  "338": {
+   "source": "Financial Times",
+   "title": "Trump’s Nvidia intervention has a cost for US stocks",
+   "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+   "desc": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+   "published": "2026-11-27T18:26:25+00:00"
+  },
+  "339": {
+   "source": "Financial Times",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+   "desc": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+   "published": "2026-11-27T18:20:05+00:00"
+  },
+  "340": {
+   "source": "Financial Times",
+   "title": "AI and the decryption nightmare",
+   "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+   "desc": "New breakthroughs call for faster upgrades to security, not panic",
+   "published": "2026-11-27T18:18:27+00:00"
+  },
+  "341": {
+   "source": "Financial Times",
+   "title": "Can AI crack encryption?",
+   "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+   "desc": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+   "published": "2026-11-27T18:16:51+00:00"
+  },
+  "342": {
+   "source": "Financial Times",
+   "title": "Haircare tycoon Herman Mashaba named Johannesburg mayor",
+   "url": "https://www.ft.com/content/9cdc5817-0c7f-42d0-a6ae-bfd7006e4c9b?syn-25a6b1a6=1",
+   "desc": "Combative leader of ActionSA squeezes out pro-business Democratic Alliance after deal with ANC and two populist parties",
+   "published": "2026-11-27T18:15:16+00:00"
+  },
+  "343": {
+   "source": "Financial Times",
+   "title": "Stockpickers: Renew Holdings, Polar Capital, Telecom Plus",
+   "url": "https://www.ft.com/content/8b156308-25ae-40af-a973-924aea557441",
+   "desc": "Our experts discuss which companies to buy, sell or hold this week",
+   "published": "2026-11-27T18:00:05+00:00"
+  },
+  "344": {
+   "source": "Financial Times",
+   "title": "Directors’ Deals: M&S chief offloads shares after they hit multiyear peak",
+   "url": "https://www.ft.com/content/ca9f958e-40a4-4fc4-b300-866343f9228f",
+   "desc": "£4mn sale follows encouraging interim results",
+   "published": "2026-11-27T18:00:05+00:00"
+  },
+  "345": {
+   "source": "Financial Times",
+   "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+   "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+   "desc": "US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region",
+   "published": "2026-11-27T17:29:29+00:00"
+  },
+  "346": {
+   "source": "Financial Times",
+   "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
+   "url": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+   "desc": "Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally",
+   "published": "2026-11-27T16:45:39+00:00"
+  },
+  "347": {
+   "source": "Financial Times",
+   "title": "AI caramba",
+   "url": "https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5",
+   "desc": "We may need to start thinking about the impact a bear market in US tech stocks would have on the real economy",
+   "published": "2026-11-27T16:30:05+00:00"
+  },
+  "348": {
+   "source": "Financial Times",
+   "title": "Wave of cyber incidents rattles western economies",
+   "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+   "desc": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+   "published": "2026-11-27T16:19:21+00:00"
+  },
+  "349": {
+   "source": "Financial Times",
+   "title": "Russia set to criminalise sharing information about Ukrainian strikes",
+   "url": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+   "desc": "Moscow looks to extend wartime crackdown to pro-war bloggers and regular citizens posting about Kyiv’s drones hitting oil refineries",
+   "published": "2026-11-27T15:16:07+00:00"
+  },
+  "350": {
+   "source": "Financial Times",
+   "title": "From Jobs to Jensen: tech’s metamorphosis",
+   "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+   "desc": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+   "published": "2026-11-27T15:10:17+00:00"
+  },
+  "351": {
+   "source": "Financial Times",
+   "title": "Inflation and interest rates tracker: see how your country compares",
+   "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+   "desc": "Explore the latest data through interactive charts",
+   "published": "2026-11-27T13:39:05+00:00"
+  },
+  "352": {
+   "source": "Financial Times",
+   "title": "The reforms the NHS needs (and those it doesn’t)",
+   "url": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+   "desc": "Different age groups make totally different demands on healthcare — here’s what I learnt in adapting how the London Ambulance Service responds",
+   "published": "2026-11-27T13:27:45+00:00"
+  },
+  "353": {
+   "source": "Financial Times",
+   "title": "EU weighs tighter export controls to prevent battery waste going to China",
+   "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+   "desc": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+   "published": "2026-11-27T13:26:26+00:00"
+  },
+  "354": {
+   "source": "Financial Times",
+   "title": "Brexit bear traps for Labour, Tories and Reform",
+   "url": "https://www.ft.com/content/8de00d12-8965-41e0-929a-76e80b1ada8e?syn-25a6b1a6=1",
+   "desc": "Plus, influencer row engulfs No 10",
+   "published": "2026-11-27T13:13:04+00:00"
+  },
+  "355": {
+   "source": "Financial Times",
+   "title": "First principles to cling to when markets convulse",
+   "url": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+   "desc": "If you haven’t a clue what to do right now, stick to the investment basics",
+   "published": "2026-11-27T12:32:08+00:00"
+  },
+  "356": {
+   "source": "Financial Times",
+   "title": "Former Supreme Court justice Jonathan Sumption: ‘We never got back control’",
+   "url": "https://www.ft.com/content/97f1dda5-2219-4e14-a716-569aab163e08?syn-25a6b1a6=1",
+   "desc": "The barrister and medieval historian on the fragility of democracy, the folly of Brexit and why politicians need to learn from the past",
+   "published": "2026-11-27T12:30:04+00:00"
+  },
+  "357": {
+   "source": "Financial Times",
+   "title": "FT Weekend Magazine Crossword Number 821",
+   "url": "https://www.ft.com/content/ea5cbc99-5807-4191-9fcc-ee6dbbd97dc0",
+   "desc": "",
+   "published": "2026-11-27T12:02:03+00:00"
+  },
+  "358": {
+   "source": "Financial Times",
+   "title": "Delaware’s dangerous plan for autonomous AI companies",
+   "url": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1",
+   "desc": "US state’s proposed law would gut human accountability for agentic AI",
+   "published": "2026-11-27T12:00:05+00:00"
+  },
+  "359": {
+   "source": "Financial Times",
+   "title": "London is playing a game of penthouse one-upmanship",
+   "url": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+   "desc": "A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops",
+   "published": "2026-11-27T12:00:05+00:00"
+  },
+  "360": {
+   "source": "Financial Times",
+   "title": "FT Weekend Quiz: Simon and Garfunkel, The Shining and Barbarossa",
+   "url": "https://www.ft.com/content/c0cf805b-4cb7-499e-859f-bcc8f14d1e01",
+   "desc": "Our ‘Round on the Links’ quiz tests your ability to draw connections. Thinking caps on!",
+   "published": "2026-11-27T12:00:05+00:00"
+  },
+  "361": {
+   "source": "Financial Times",
+   "title": "FT Weekend Quiz solutions",
+   "url": "https://www.ft.com/content/0c06a61d-e76c-4a23-ad22-cb3aebef6f70",
+   "desc": "",
+   "published": "2026-11-27T12:00:05+00:00"
+  },
+  "362": {
+   "source": "Financial Times",
+   "title": "Japanese carmaker’s sales collapse amid China market plunge",
+   "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+   "desc": "Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic",
+   "published": "2026-11-27T11:31:30+00:00"
+  },
+  "363": {
+   "source": "Financial Times",
+   "title": "Hostility to immigration threatens Europe’s future",
+   "url": "https://www.ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
+   "desc": "A defeat for Pedro Sánchez in Spain’s election will remove the EU’s last loud voice in favour of liberal policy",
+   "published": "2026-11-27T11:16:10+00:00"
+  },
+  "364": {
+   "source": "Financial Times",
+   "title": "Latest savings rates",
+   "url": "https://www.ft.com/content/9f46db72-0a1e-42b0-8efe-974a04fa0fc7",
+   "desc": "Up-to-date deals from banks and building societies",
+   "published": "2026-11-27T11:12:37+00:00"
+  },
+  "365": {
+   "source": "Financial Times",
+   "title": "Latest Isa rates",
+   "url": "https://www.ft.com/content/75ba3055-625c-4cb5-894b-0696a38f5e79?syn-25a6b1a6=1",
+   "desc": "Up-to-date tax-efficient savings deals",
+   "published": "2026-11-27T11:09:02+00:00"
+  },
+  "366": {
+   "source": "Financial Times",
+   "title": "Binary Puzzle Number 137",
+   "url": "https://www.ft.com/content/2b5c8392-7126-4fa8-bc44-c9dd716b7438",
+   "desc": "",
+   "published": "2026-11-27T11:00:04+00:00"
+  },
+  "367": {
+   "source": "Financial Times",
+   "title": "Moiré is back. Will you ride the wave?",
+   "url": "https://www.ft.com/content/59fbe3d5-8916-4c43-9d9b-d0d273648536",
+   "desc": "The elegant rippled motif is everywhere again",
+   "published": "2026-11-27T11:00:04+00:00"
+  },
+  "368": {
+   "source": "Financial Times",
+   "title": "Word Circle Number 137",
+   "url": "https://www.ft.com/content/f7c13de7-2ad2-4f5a-b966-b54e2245f788",
+   "desc": "",
+   "published": "2026-11-27T11:00:04+00:00"
+  },
+  "369": {
+   "source": "Financial Times",
+   "title": "Mini Crossword Number 137",
+   "url": "https://www.ft.com/content/20794205-aaeb-44d0-a80d-642943e7b65a",
+   "desc": "",
+   "published": "2026-11-27T11:00:04+00:00"
+  },
+  "370": {
+   "source": "Financial Times",
+   "title": "Indonesia arrests three over alleged market manipulation",
+   "url": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
+   "desc": "Move follows MSCI’s threat to downgrade country to standalone market status",
+   "published": "2026-11-27T10:54:42+00:00"
+  },
+  "371": {
+   "source": "Financial Times",
+   "title": "If we say the pay, let’s say the pension",
+   "url": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
+   "desc": "Disclosing pension contributions on job ads would get people talking about their retirement prospects",
+   "published": "2026-11-27T10:54:25+00:00"
+  },
+  "372": {
+   "source": "Financial Times",
+   "title": "Latest National Savings & Investments rates",
+   "url": "https://www.ft.com/content/68b36b6d-71e7-4f44-bbfb-a202e36603a4?syn-25a6b1a6=1",
+   "desc": "Current rates from the state-owned savings bank",
+   "published": "2026-11-27T10:50:56+00:00"
+  },
+  "373": {
+   "source": "Financial Times",
+   "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
+   "url": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+   "desc": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’",
+   "published": "2026-11-27T10:21:13+00:00"
+  },
+  "374": {
+   "source": "Financial Times",
+   "title": "Ladbrokes owner to settle money laundering case in Australia",
+   "url": "https://www.ft.com/content/5fe8a858-6ed2-40f0-a0f3-e8742b7656aa?syn-25a6b1a6=1",
+   "desc": "Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing",
+   "published": "2026-11-27T09:51:44+00:00"
+  },
+  "375": {
+   "source": "Financial Times",
+   "title": "I opened a bookshop. One year on, I’m still here",
+   "url": "https://www.ft.com/content/54565b2a-8de5-4485-84a6-367f117a3c03",
+   "desc": "But does Chloe Fox still think her independent business is the ‘best worst thing’ she ever did?",
+   "published": "2026-11-27T09:44:18+00:00"
+  },
+  "376": {
+   "source": "Financial Times",
+   "title": "FTAV’s Friday charts quiz",
+   "url": "https://www.ft.com/content/ac51c59c-7eb1-46ee-beec-cd0a1589fb46",
+   "desc": "Graphin’ To The Bank",
+   "published": "2026-11-27T09:38:36+00:00"
+  },
+  "377": {
+   "source": "Financial Times",
+   "title": "How do you solve a problem like the Met?",
+   "url": "https://www.ft.com/content/c9aefc31-fedc-489a-8b77-0547d7f6f29f?syn-25a6b1a6=1",
+   "desc": "Narrowing the focus of the UK’s largest police force may be the key triumph of Shabana Mahmood’s reforms",
+   "published": "2026-11-27T09:30:05+00:00"
+  },
+  "378": {
+   "source": "Financial Times",
+   "title": "Welcome to the ‘Smurf house’",
+   "url": "https://www.ft.com/content/b8e4a919-64c1-417b-b736-b56fa2c260d0",
+   "desc": "How a classic midcentury LA home became a maximalist wonderland",
+   "published": "2026-11-27T09:30:05+00:00"
+  },
+  "379": {
+   "source": "Financial Times",
+   "title": "The case for party jeans",
+   "url": "https://www.ft.com/content/0bf9f72b-7381-4087-8102-8c666cfac688",
+   "desc": "Dazzling denim that goes the distance",
+   "published": "2026-11-27T09:30:05+00:00"
+  },
+  "380": {
+   "source": "Financial Times",
+   "title": "How to host a fun festive dinner with Mira Mikati",
+   "url": "https://www.ft.com/content/e65dc726-7828-4aaa-b041-ee6cfa1fe2f8",
+   "desc": "The fashion designer puts together a grown-up gathering — for the young at heart",
+   "published": "2026-11-27T09:30:05+00:00"
+  },
+  "381": {
+   "source": "Financial Times",
+   "title": "What makes a great celebration cake?",
+   "url": "https://www.ft.com/content/6f48be0f-d329-4ebc-ba92-ef8574b0bc9c",
+   "desc": "Introducing the world’s most fashionable bakes",
+   "published": "2026-11-27T09:30:04+00:00"
+  },
+  "382": {
+   "source": "Financial Times",
+   "title": "FT Crossword: Number 18,543",
+   "url": "https://www.ft.com/content/4c15cefe-7412-40f7-a8a9-7ea80a706955",
+   "desc": "",
+   "published": "2026-11-27T09:29:48+00:00"
+  },
+  "383": {
+   "source": "Financial Times",
+   "title": "UK Department for Work and Pensions hit by cyber incident",
+   "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+   "desc": "Agency says it has taken some online services down but regular pension and benefit payments are not affected",
+   "published": "2026-11-27T08:45:17+00:00"
+  },
+  "384": {
+   "source": "Financial Times",
+   "title": "French economy shrinks 0.2% in third quarter",
+   "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+   "desc": "Quarterly GDP reduction was worse than initially estimated",
+   "published": "2026-11-27T08:19:11+00:00"
+  },
+  "385": {
+   "source": "Financial Times",
+   "title": "Sky-high WiFi will give airlines a shortlived boost",
+   "url": "https://www.ft.com/content/8a8d973e-e476-4578-80a9-26e9c6e5f912?syn-25a6b1a6=1",
+   "desc": "What seems like an upgrade will soon be an everyday expectation, much like hotel WiFis",
+   "published": "2026-11-27T07:11:05+00:00"
+  },
+  "386": {
+   "source": "Financial Times",
+   "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+   "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+   "desc": "Move comes after some global investors pulled out or scaled back teams in Asian financial hub",
+   "published": "2026-11-27T06:47:12+00:00"
+  },
+  "387": {
+   "source": "Financial Times",
+   "title": "‘It’s not nation versus nation. It’s hyperscaler versus hyperscaler’",
+   "url": "https://www.ft.com/content/698d29bd-490b-41ef-a3e3-20edc2b591f7?syn-25a6b1a6=1",
+   "desc": "Mining billionaire Robert Friedland on copper and war",
+   "published": "2026-11-27T06:30:02+00:00"
+  },
+  "388": {
+   "source": "Financial Times",
+   "title": "Year-end deadline for EU budget deal in doubt after testy summit",
+   "url": "https://www.ft.com/content/cf5e2884-63e3-4fde-ad32-15c8cfa9603e?syn-25a6b1a6=1",
+   "desc": "Also in this newsletter: Another turn in Serbia’s momentous political year",
+   "published": "2026-11-27T06:00:02+00:00"
+  },
+  "389": {
+   "source": "Financial Times",
+   "title": "FTAV’s further reading",
+   "url": "https://www.ft.com/content/637cfd22-c5cc-477f-b351-5c533fcba26d",
+   "desc": "Jensen Huang; stonks; satellites; shipwrecks; OpenAI: artificial consciousness; extractions; and chefs",
+   "published": "2026-11-27T06:00:02+00:00"
+  },
+  "390": {
+   "source": "Financial Times",
+   "title": "Private credit’s ‘alpha’ problem",
+   "url": "https://www.ft.com/content/364fece7-4303-4ed9-afc9-47e953bd4e9f",
+   "desc": "Can direct lending really be replicated in public markets? Yes",
+   "published": "2026-11-27T06:00:02+00:00"
+  },
+  "391": {
+   "source": "The Economist",
+   "title": "The War Room newsletter: The best armies in history",
+   "url": "https://www.economist.com/international/2026/11/27/the-war-room-newsletter-the-best-armies-in-history",
+   "desc": "Richard Cockett, one of our senior editors, makes a short list of the best fighting forces in history",
+   "published": "2026-11-27T18:05:16+00:00"
+  },
+  "392": {
+   "source": "The Economist",
+   "title": "How much cardio exercise is too much?",
+   "url": "https://www.economist.com/science-and-technology/2026/11/27/how-much-cardio-exercise-is-too-much",
+   "desc": "Overdoing it can affect your heart, but doesn’t seem to kill you",
+   "published": "2026-11-27T17:34:31+00:00"
+  },
+  "393": {
+   "source": "The Economist",
+   "title": "The state of American conservatism",
+   "url": "https://www.economist.com/podcasts/2026/11/27/the-state-of-american-conservatism",
+   "desc": "Our weekly podcast on America. This week, a conversation with conservative thinker Yuval Levin",
+   "published": "2026-11-27T15:42:54+00:00"
+  },
+  "394": {
+   "source": "The Economist",
+   "title": "What to watch this week",
+   "url": "https://www.economist.com/culture/2026/11/27/what-to-watch-this-week",
+   "desc": "Our list offers alluring protagonists, from stuntmen to satirists",
+   "published": "2026-11-27T11:05:06+00:00"
+  },
+  "395": {
+   "source": "The Economist",
+   "title": "The Economist is hiring a Senior Producer, Narrative Podcasts",
+   "url": "https://www.economist.com/britain/2026/11/27/the-economist-is-hiring-a-senior-producer-narrative-podcasts",
+   "desc": "Join our podcasts team",
+   "published": "2026-11-27T10:48:55+00:00"
+  },
+  "396": {
+   "source": "The Economist",
+   "title": "Social-insecurity numbers: the money behind the manosphere",
+   "url": "https://www.economist.com/podcasts/2026/11/27/social-insecurity-numbers-the-money-behind-the-manosphere",
+   "desc": "Also on the daily podcast: China goes mad for grassroots football and a tribute to a legendary fragrance maven",
+   "published": "2026-11-27T10:46:33+00:00"
+  },
+  "397": {
+   "source": "The Economist",
+   "title": "Can the world’s biggest snack firm survive the Ozempic revolution?",
+   "url": "https://www.economist.com/interactive/1843/2026/11/27/can-the-worlds-biggest-snack-firm-survive-the-ozempic-revolution",
+   "desc": "Weight-loss drugs and health fads are changing how we eat. Mars is looking for new ways to satisfy our appetites",
+   "published": "2026-11-27T10:20:35+00:00"
+  },
+  "398": {
+   "source": "The Economist",
+   "title": "Why museums are lending out precious artefacts",
+   "url": "https://www.economist.com/culture/2026/11/27/why-museums-are-lending-out-precious-artefacts",
+   "desc": "Is loan diplomacy an alternative to restitution?",
+   "published": "2026-11-27T09:39:57+00:00"
+  },
+  "399": {
+   "source": "New York Times",
+   "title": "NBC Pulls an Ad That Some Described as Antisemitic",
+   "url": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+   "desc": "The commercial appeared during a “Saturday Night Live” holiday special on Wednesday.",
+   "published": "2026-11-27T23:29:54+00:00"
+  },
+  "400": {
+   "source": "New York Times",
+   "title": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+   "url": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+   "desc": "Fewer original series, decision fatigue and a desire for comfort have viewers escaping to the past.",
+   "published": "2026-11-27T15:30:19+00:00"
+  },
+  "401": {
+   "source": "New York Times",
+   "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+   "url": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+   "desc": "A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
+   "published": "2026-11-27T15:29:05+00:00"
+  },
+  "402": {
+   "source": "New York Times",
+   "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+   "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+   "desc": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+   "published": "2026-11-27T15:18:58+00:00"
+  },
+  "403": {
+   "source": "New York Times",
+   "title": "Stocks Set to Rally at End of a Week of Wild Swings",
+   "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+   "desc": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+   "published": "2026-11-27T11:13:57+00:00"
+  },
+  "404": {
+   "source": "New York Times",
+   "title": "How A.I. Is Transforming Mathematics",
+   "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+   "desc": "“One thing that A.I. has done is that it’s given us answers without insight, without understanding.”",
+   "published": "2026-11-27T11:00:19+00:00"
+  },
+  "405": {
+   "source": "New York Times",
+   "title": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+   "url": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
+   "desc": "Some deals are too good to be true. Experts suggest doing the math, making lists and avoiding using “buy now, pay later” platforms to make purchases.",
+   "published": "2026-11-27T10:03:51+00:00"
+  },
+  "406": {
+   "source": "New York Times",
+   "title": "How to Live Calmly, Despite Stock Market Whiplash",
+   "url": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "desc": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+   "published": "2026-11-27T10:02:53+00:00"
+  },
+  "407": {
+   "source": "New York Times",
+   "title": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+   "url": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
+   "desc": "Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most.",
+   "published": "2026-11-27T10:02:41+00:00"
+  },
+  "408": {
+   "source": "New York Times",
+   "title": "2 TV Shows Take on Sam Bankman-Fried and FTX",
+   "url": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
+   "desc": "The limited series “The Altruists” and the documentary “The Boy Who Stole Billions?” offer different takes on the crypto exchange founder’s role in one of the largest frauds in history.",
+   "published": "2026-11-27T10:02:08+00:00"
+  },
+  "409": {
+   "source": "New York Times",
+   "title": "Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction",
+   "url": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+   "desc": "Understanding the set of beliefs that drives the Silicon Valley vanguard.",
+   "published": "2026-11-27T10:01:01+00:00"
+  },
+  "410": {
+   "source": "New York Times",
+   "title": "48 Hours in Tokyo With an Airline Pilot",
+   "url": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
+   "desc": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+   "published": "2026-11-27T10:00:33+00:00"
+  },
+  "411": {
+   "source": "CNBC",
+   "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+   "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+   "desc": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+   "published": "2026-11-27T18:46:20+00:00"
+  },
+  "412": {
+   "source": "CNBC",
+   "title": "Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
+   "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
+   "desc": "With a 12.3% total return in 2026, Disney the 14th-best performing stock in the Dow Jones Industrial Average this year.",
+   "published": "2026-11-27T16:02:31+00:00"
+  },
+  "413": {
+   "source": "CNBC",
+   "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+   "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+   "desc": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+   "published": "2026-11-27T15:27:11+00:00"
+  },
+  "414": {
+   "source": "CNBC",
+   "title": "Walmart is crushing SpaceX. Only one is a bargain",
+   "url": "https://www.cnbc.com/2026/11/27/walmart-costco-valuations-ai-stocks.html",
+   "desc": "Walmart and Costco are cruising past SpaceX and other tech stocks. Valuations for the retailers may be in a danger zone.",
+   "published": "2026-11-27T13:56:12+00:00"
+  },
+  "415": {
+   "source": "CNBC",
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "desc": "The November selloff has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+   "published": "2026-11-27T12:06:17+00:00"
+  },
+  "416": {
+   "source": "CNBC",
+   "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+   "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+   "desc": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+   "published": "2026-11-27T12:00:22+00:00"
+  },
+  "417": {
+   "source": "CNBC",
+   "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+   "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+   "desc": "President Trump demands a probe into the GDP revision data.",
+   "published": "2026-11-27T11:55:41+00:00"
+  },
+  "418": {
+   "source": "CNBC",
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "desc": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+   "published": "2026-11-27T11:00:01+00:00"
+  },
+  "419": {
+   "source": "CNBC",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+   "desc": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "published": "2026-11-27T10:07:47+00:00"
+  },
+  "420": {
+   "source": "CNBC",
+   "title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
+   "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "desc": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+   "published": "2026-11-27T06:36:30+00:00"
+  },
+  "421": {
+   "source": "New York Post",
+   "title": "LA brewery reveals opening of fourth location in Santa Monica",
+   "url": "https://nypost.com/2026/11/27/business/la-brewery-reveals-opening-of-fourth-location-in-santa-monica/",
+   "desc": "A popular Los Angeles brewery is expanding to the beachside with a fourth taproom taking over a former hard kombucha tasting room.",
+   "published": "2026-11-28T02:15:45+00:00"
+  },
+  "422": {
+   "source": "New York Post",
+   "title": "OpenAI accuses Apple of stealing trade secrets in latest filing between warring tech giants",
+   "url": "https://nypost.com/2026/11/27/business/openai-accuses-apple-of-stealing-trade-secrets-in-latest-filing-between-warring-tech-giants/",
+   "desc": "The ChatGPT maker filed counterclaims in California federal court on Friday.",
+   "published": "2026-11-27T23:49:41+00:00"
+  },
+  "423": {
+   "source": "New York Post",
+   "title": "Mamdani and Amazon trade barbs on Black Friday over contentious delivery worker bill",
+   "url": "https://nypost.com/2026/11/27/us-news/mamdani-and-amazon-trade-barbs-on-black-friday-over-contentious-delivery-worker-bill/",
+   "desc": "Mayor Zohran Mamdani and Amazon used Black Friday to trade barbs over a controversial proposed labor law that the retail giant claims could hike prices for Big Apple shoppers. A beard-sporting Hizzoner re-released a flashy social media clip initially posted in August featuring delivery workers in Amazon vests advocating for the City Council bill, which...",
+   "published": "2026-11-27T22:21:23+00:00"
+  },
+  "424": {
+   "source": "New York Post",
+   "title": "NYC grocery prices jump nearly one-third since 2019, with weekly grocer bill of $180 for families: ‘Highway robbery’",
+   "url": "https://nypost.com/2026/11/27/business/nyc-grocery-prices-jump-nearly-one-third-since-2019-with-weekly-grocer-bill-of-180-for-families/",
+   "desc": "Grocery prices in the New York City metropolitan area have surged by nearly a third since before the pandemic, with families paying an average of $180 per week to put food on the table, according to a new report from the city.",
+   "published": "2026-11-27T21:21:19+00:00"
+  },
+  "425": {
+   "source": "New York Post",
+   "title": "Chinese ads selling banned Nvidia servers for $3M as Jensen Huang scandal chokes supply: ‘Market is crazy’",
+   "url": "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/",
+   "desc": "Chinese videos are advertising banned Nvidia chips for sale at $3 million apiece, more than five times the US price. Prices have spiked amid a crackdown by both Washington and the chip maker on the processors after investigations found they had been making their way into the market. In one Shenzhen video on Douyin, China’s...",
+   "published": "2026-11-27T21:18:40+00:00"
+  },
+  "426": {
+   "source": "New York Post",
+   "title": "Anthropic employees let dreams of world domination slip after ‘couple of drinks’: MIT professor",
+   "url": "https://nypost.com/2026/11/27/business/alcohol-gets-anthropic-employees-to-let-dreams-of-world-domination-slip-mit-prof-claims/",
+   "desc": "An MIT professor claimed conversations with Anthropic employees over drinks turned to overthrowing the US government and taking over the world.",
+   "published": "2026-11-27T21:12:11+00:00"
+  },
+  "427": {
+   "source": "New York Post",
+   "title": "Nasdaq marks best week in 7 months as tech stocks rebound",
+   "url": "https://nypost.com/2026/11/27/business/nasdaq-marks-best-week-in-seven-months-as-tech-stocks-rebound/",
+   "desc": "But tech stocks are still on track for one of their worst months in four years following some highly volatile trading sessions.",
+   "published": "2026-11-27T20:53:19+00:00"
+  },
+  "428": {
+   "source": "New York Post",
+   "title": "5 cybersecurity tools to protect your money, identity and digital life in 2026",
+   "url": "https://nypost.com/business/cybersecurity-tools-to-protect-your-money-identity-and-digital-life-in-2026/",
+   "desc": "Don't be scared of the AI apocalypse, do this instead.",
+   "published": "2026-11-27T20:04:07+00:00"
+  },
+  "429": {
+   "source": "New York Post",
+   "title": "India-US trade deal nearing completion, minister says",
+   "url": "https://nypost.com/2026/11/27/business/india-us-trade-deal-nearing-completion-minister-says/",
+   "desc": "US Trade Representative Jamieson Greer said Wednesday Washington would cap tariffs on Indian imports at 17% if an agreement was reached, averting a rise to 25%.",
+   "published": "2026-11-27T19:59:22+00:00"
+  },
+  "430": {
+   "source": "New York Post",
+   "title": "NBC pulls ‘anti-Israel’ ad after backlash for airing on ‘Saturday Night Live’",
+   "url": "https://nypost.com/2026/11/27/media/nbc-pulls-anti-israel-ad-after-backlash-for-airing-on-saturday-night-live/",
+   "desc": "NBC is pulling a controversial anti-Israel ad that aired during a “Saturday Night Live” Thanksgiving special after facing heated backlash online, The Post has learned. A source familiar with the matter told The Post on Friday that senior management was not aware of the ad until after it ran Wednesday night and NBCU will evaluate...",
+   "published": "2026-11-27T19:45:46+00:00"
+  },
+  "431": {
+   "source": "New York Post",
+   "title": "California’s biggest school district flips the bird to powerful tech giant over using its systems for students",
+   "url": "https://nypost.com/2026/11/27/tech/la-school-district-suspends-googles-ai-on-campus-devices/",
+   "desc": "Los Angeles school officials have quietly disabled AI-generated summaries, known as AI Overview, in Google searches on school-issued devices.",
+   "published": "2026-11-27T18:41:38+00:00"
+  },
+  "432": {
+   "source": "New York Post",
+   "title": "Journalist Catherine Herridge moves to take fight to preserve secret source’s identity to Supreme Court",
+   "url": "https://nypost.com/2026/11/27/media/journalist-catherine-herridge-moves-to-take-fight-to-preserve-secret-sources-identity-to-supreme-court/",
+   "desc": "Investigative TV journalist Catherine Herridge is asking the highest court in the land to hear a widely watched case on reporters' privilege to use confidential sources.",
+   "published": "2026-11-27T18:30:29+00:00"
+  },
+  "433": {
+   "source": "New York Post",
+   "title": "‘Terrifying’ site lets digital Peeping Toms watch your neighborhood from space",
+   "url": "https://nypost.com/2026/11/27/tech/site-reveals-peeping-toms-watching-your-neighborhood-from-space/",
+   "desc": "It's time to draw the blinds.",
+   "published": "2026-11-27T17:51:50+00:00"
+  },
+  "434": {
+   "source": "New York Post",
+   "title": "NBC faces backlash for airing anti-Israel ad during ‘SNL’s’ Thanksgiving special: ‘Maximize hatred of Jews and Israel’",
+   "url": "https://nypost.com/2026/11/27/media/nbc-faces-backlash-for-airing-anti-israel-ad-during-snls-thanksgiving-special/",
+   "desc": "The ad was paid for by a pro-Palestinian nonprofit that advocates for the end of US military aid to Israel.",
+   "published": "2026-11-27T17:16:23+00:00"
+  },
+  "435": {
+   "source": "New York Post",
+   "title": "The steaks couldn’t be higher for US cattle herd — and it’ll take years for beef prices to come down",
+   "url": "https://nypost.com/2026/11/27/us-news/us-has-fewest-cattle-in-75-years-heres-how-long-beef-prices-will-stay-high/",
+   "desc": "Beef prices are skyrocketing because US farmers are raising fewer cows than any time since Harry Truman was president — and they won't come down anytime soon.",
+   "published": "2026-11-27T12:00:00+00:00"
+  },
+  "436": {
+   "source": "New York Post",
+   "title": "Black Friday laptop deals loading: Up to $600 off HP, Dell, MacBook, more",
+   "url": "https://nypost.com/shopping/black-friday-laptop-deals-2026/",
+   "desc": "Your next PC upgrade.",
+   "published": "2026-11-27T08:30:00+00:00"
+  },
+  "437": {
+   "source": "New York Post",
+   "title": "Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids",
+   "url": "https://nypost.com/2026/11/27/business/apple-pulls-chinese-developed-ai-chatbot-from-app-store-over-reports-of-sexual-messages-to-kids/",
+   "desc": "Although Talkie carries an 18+ rating, child safety advocates have criticized its lax verification safeguards.",
+   "published": "2026-11-27T07:57:25+00:00"
+  }
+ }
+}
